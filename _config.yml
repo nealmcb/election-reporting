@@ -1,0 +1,5 @@
+title: "Election reporting: account for every ballot"
+description: "League of Women Voters of Boulder County, Voting Methods Team: draft for discussion"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme

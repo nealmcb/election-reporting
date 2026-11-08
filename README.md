@@ -2,9 +2,8 @@
 
 **Draft for discussion** by the Voting Methods Team of the League of Women Voters of Boulder County
 (LWVBC), November 8, 2026. This builds on the team's earlier work on election reporting, including
-the 2021 Boulder Beat article
-(https://boulderbeat.news/2021/10/20/lwv-election-reporting/) and the "A Better Way to Report
-Election Results" articles. **The 2026 figures are unofficial**: counties are still counting, and
+the 2021 [Boulder Beat article](https://boulderbeat.news/2021/10/20/lwv-election-reporting/) and
+the "A Better Way to Report Election Results" articles. **The 2026 figures are unofficial**: counties are still counting, and
 the last ballots include rare ballot styles held back so no update reveals one voter's choices,
 plus signature cures, late-arriving and provisional ballots.
 
@@ -195,15 +194,15 @@ upload, and publish the per-contest summary report for every county in every ele
 
 ## Data and tools
 
-- `data/multiwinner_contests.csv`: every multi-winner contest-county 2014–2026, with ballots,
+- [`data/multiwinner_contests.csv`](data/multiwinner_contests.csv): every multi-winner contest-county 2014–2026, with ballots,
   votes, seats, votes per ballot, undervote, and a flag for how far the ballot count can be
-  trusted (ok, ?, <= upper bound, >= lower bound, na). `data/multiwinner_candidates.csv`: each
-  candidate's % votes and % ballots. `data/boulder-county-2026-unofficial-summary.csv`: the 2026
+  trusted (ok, ?, <= upper bound, >= lower bound, na). [`data/multiwinner_candidates.csv`](data/multiwinner_candidates.csv): each
+  candidate's % votes and % ballots. [`data/boulder-county-2026-unofficial-summary.csv`](data/boulder-county-2026-unofficial-summary.csv): the 2026
   Boulder County table.
 - The figures and tables were produced with open-source tools in
-  https://github.com/nealmcb/snapshot-election-results which archive Clarity results on election
+  [snapshot-election-results](https://github.com/nealmcb/snapshot-election-results), which archive Clarity results on election
   night and compute these measures. Reproducible records of each analysis, with pinned inputs,
   will be added here when results are final.
 
-Corrections and suggestions are welcome: open an issue, or contact the LWVBC Voting Methods
+Corrections and suggestions are welcome: [open an issue](https://github.com/nealmcb/election-reporting/issues), or contact the LWVBC Voting Methods
 Team.
