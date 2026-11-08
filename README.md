@@ -22,6 +22,24 @@ The data to do both is now published in most of Colorado, on election night, in 
 the state's results site. The main gap is presentation, and a few counties, Boulder among them,
 that leave the undervote and overvote columns empty.
 
+**Contents**
+
+- [Part 1: Account for every ballot](#part-1-account-for-every-ballot)
+  - [The ballot accounting identity](#the-ballot-accounting-identity)
+  - [Who reports undervotes and overvotes, and does it add up?](#who-reports-undervotes-and-overvotes-and-does-it-add-up)
+  - [Why it matters](#why-it-matters)
+  - [Ranked-choice contests need more](#ranked-choice-contests-need-more)
+  - [Ballots, not just votes](#ballots-not-just-votes)
+- [Part 2: Show what voters actually chose](#part-2-show-what-voters-actually-chose)
+  - [Percent of votes versus percent of ballots](#percent-of-votes-versus-percent-of-ballots)
+  - [Boulder County, 2026](#boulder-county-2026-unofficial-through-1109-pm-nov-6-about-88-counted)
+  - [Statewide, 2014–2026](#statewide-20142026)
+- [Is the data available?](#is-the-data-available)
+- [Recommendations](#recommendations)
+- [History, lost insights and confusion](#history-lost-insights-and-confusion)
+- [Earlier work by the team](#earlier-work-by-the-team)
+- [Data and tools](#data-and-tools)
+
 ## Part 1: Account for every ballot
 
 ### The ballot accounting identity
@@ -36,27 +54,75 @@ satisfy this identity, every ballot is accounted for. When they don't, something
 explaining: a ballot count covering a different area than the contest, a reporting error, or a
 tabulation problem.
 
-### Most Colorado counties already publish balanced numbers
+### Who reports undervotes and overvotes, and does it add up?
 
 Colorado's results site (run on Clarity Elections) offers a downloadable summary report for each
-county with columns for "ballots cast", "under votes" and "over votes" for every contest. Checking
-every county's file for each election:
+county, with columns for "ballots cast", "under votes" and "over votes" for every contest. We
+checked every county's final report for each election (2026: unofficial, as of November 7).
 
-| Election | Counties reporting undervotes | Contest rows that balance exactly* |
+**Who reports undervotes.** Almost every county started in 2022:
+
+| Election | Counties reporting undervotes (of 64) | Counties not reporting them |
 |---|---|---|
-| 2017–2019 | 0–2 of 57–63 | — |
-| 2020 general | 31 of 63 | — |
-| 2022 general | 60 of 63 | 664 of 2,656 (many use a county-wide ballot count) |
-| 2023 coordinated | 59 of 64 | 722 of 902 (80%) |
-| 2024 general | 60 of 64 | 2,163 of 2,410 (90%) |
-| 2025 coordinated | 57 of 63 | 821 of 838 (98%) |
-| 2026 general (unofficial) | 56 of 64 | 2,394 of 2,592 (92%) |
+| 2017–2019 | 0–2 | nearly all |
+| 2020 general | 31 | 33, including Adams, El Paso, Pueblo and Weld |
+| 2021 coordinated | 28 | 36, including Larimer, Mesa and Weld |
+| 2022 general | 60 | **Boulder, Douglas, Garfield, San Juan** |
+| 2023 coordinated | 59 | the same four, and Kiowa |
+| 2024 general | 60 | **Boulder, Douglas, Garfield, San Juan** |
+| 2025 coordinated | 57 | the same four, and Dolores, Elbert, Otero |
+| 2026 general | 56 | the same four, and Elbert, Gilpin, Grand, Otero |
 
-\* Among counties that report undervotes; most of the rest are within 1%.
+Since 2022, **Boulder, Douglas, Garfield and San Juan have never filled in the undervote column**
+(in the 2022 general and 2025 Boulder published no summary report, only the web page's data).
 
-So publishing a full ballot accounting for every contest is routine practice, not a burden. The
-counties that leave "under votes" at 0 in every recent election include **Boulder**, Douglas,
-Garfield and San Juan (Boulder's files for 2023, 2024 and 2026 all show 0).
+**Does it add up?** Among counties that report undervotes, the share of contests where votes +
+undervotes + overvotes × *N* equals ballots × *N*:
+
+| Election | Balance exactly | Within 1% | Short by more than 1% |
+|---|---|---|---|
+| 2022 general | 25% | 30% | 45% |
+| 2023 coordinated | 80% | 3% | 17% |
+| 2024 general | 90% | 7% | 3% |
+| 2025 coordinated | 98% | 2% | 2 contests |
+| 2026 general (unofficial) | 92% | 6% | 2% |
+
+No contest ever comes out **over**: where the numbers miss, ballots are unaccounted for. The
+misses fall into patterns worth explaining, not dismissing:
+
+- **2022 general:** in most counties every contest falls short by a similar 1–2.5%. In Sedgwick
+  County, 1,186 ballots are reported, but the U.S. Senate contest's votes and undervotes account
+  for 1,173. The pattern is county-wide, so "ballots cast" evidently included something the
+  contests did not.
+- **A ballot count larger than the contest:** for example Arvada's district council races in
+  Jefferson County in 2023 (votes and undervotes cover only 71–89% of the reported ballots),
+  Adams County's 2024 county and city questions (about 2% short), and Arapahoe's 2026 district
+  contests (33 of 82, still being counted).
+- **Primaries** cannot be checked this way: "ballots cast" counts all parties' ballots, while each
+  party's contests appear only on that party's ballot. Reporting each party's ballots would fix
+  that.
+
+**Overvotes.** Nearly every county that reports undervotes also reports overvotes (59 of 60 in
+2024, 52 of 56 in 2026). Some smaller counties report none, which may be accurate. Overvotes are
+rare, about 0.01–0.03% of ballots per contest: in the 2024 presidential contest, 60 counties
+reported 3,932 overvotes and 37,533 undervotes among 2.87 million ballots. A few contests stand
+out and deserve a look at their ballot design:
+
+| Election | Contest | County | Ballots | Overvoted |
+|---|---|---|---|---|
+| 2025 | Westminster City Council (vote for 3) | Adams | 18,909 | 2.8% |
+| 2025 | Steamboat Springs City Council, At-Large | Routt | 5,486 | 2.1% |
+| 2025 | Pueblo City Council, District 1 | Pueblo | 6,831 | 1.9% |
+| 2023 | Englewood City Council, At-Large (2-year term) | Arapahoe | 8,698 | 1.6% |
+| 2024 | Presidential Electors | Costilla | 2,149 | 1.3% |
+
+Since 2023, counties count an overvote in a multi-winner contest once per ballot (all *N* of its
+choices are lost). In 2021, 24 contests in 12 counties counted it once per lost vote instead, so
+the convention should be stated alongside the numbers.
+
+So a full ballot accounting for every contest is already routine practice in most of Colorado.
+What remains is for every county to do it, to explain the contests that don't balance, and to
+show the results on the public results pages, not only in a downloadable file.
 
 ### Why it matters
 
@@ -191,6 +257,49 @@ To the Boulder County Clerk, and to Colorado counties generally:
 
 To the Secretary of State: make the ballot accounting identity a standard check on every county
 upload, and publish the per-contest summary report for every county in every election.
+
+## History, lost insights and confusion
+
+The team has asked for percent-of-ballots reporting since 2020, and for undervote and overvote
+reporting since at least 2023. Looking back through our meeting minutes and correspondence, the
+data we wanted was available earlier than we thought, and we lost track of that more than once.
+
+- **2016.** Neal McBurnett noted that Colorado's Clarity downloads gave total ballots per county
+  but no undervote or overvote figures, so residual votes had to be estimated.
+- **December 2020.** The team asked the Boulder County Clerk to report multi-winner council
+  results as a percent of ballots. The Secretary of State's office had told the team that no
+  statute requires any particular percentage.
+- **April 2022: found.** A Douglas County elections staffer pointed out that the CSV report on the
+  state's results site lists the number of ballots cast for each contest, and Neal passed this on
+  to the team: ballot counts by contest could be downloaded from the state's election-night site,
+  presumably from the first results on.
+- **November 2022: lost.** Preparing graphs for the *Voter*, the team concluded that only Boulder
+  County reported ballot counts (in its votes-by-precinct file), and the state site's counts were
+  not used.
+- **January 2023.** The Secretary of State's office forwarded the team's suggestions for
+  multi-winner results to its election-night reporting vendor, noting that such a change would
+  need support from higher up.
+- **November 2023: confusion.** Asked where per-contest ballot counts were, the Boulder County
+  elections office replied that the information is in the Summary and Statement of Votes,
+  certified by the Canvass Board and posted after its meeting. That was true of the county's own
+  results site, and it became the team's understanding: the March 2024 and December 2025 *Voter*
+  articles say ballot counts by contest are not available until after certification. Yet
+  Boulder's final 2023 summary report on the state's Clarity site does carry contest-specific
+  ballot counts (we have not checked whether its election-night versions did).
+- **2024–2026.** The team pressed the Secretary of State's office and its Bipartisan Election
+  Advisory Commission to require ballots per contest in election-night reporting. In October 2025
+  the minutes record that the office did not want to change its election-night reporting
+  software; in February 2026 the State Elections Director voiced frustration with the vendor; in
+  July 2026 the team chose to focus on the state's upcoming election-night reporting contract
+  rather than an op-ed.
+- **November 2026: found again.** Archiving the 2026 results showed that Boulder's Clarity summary
+  report has had per-contest ballot counts from the first upload on election night, and that most
+  counties have also reported undervotes and overvotes since 2022. No record we found mentions
+  Clarity's undervote and overvote columns before this.
+
+**Lessons.** Data that is published but buried in a downloadable file is easy to overlook, even
+by people looking for it. That is one more reason to ask that these figures appear on the
+results pages themselves, and to keep a shared record of where each figure can be found.
 
 ## Earlier work by the team
 
