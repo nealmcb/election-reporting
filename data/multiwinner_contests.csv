@@ -1,0 +1,905 @@
+election,year,county,contest,type,seats,candidates,contested,ballots,registered,votes,floor,flag,source,votes_per_ballot,undervote
+2014G,2014,Boulder,TOWN OF SUPERIOR TRUSTEE,municipal council,3,5,True,5084,7152,9588,4209,ok,summary.zip,1.886,0.3714
+2014G,2014,Cheyenne,"KEEFE MEMORIAL HEALTH SERVICE DISTRICT DIRECTORS (MAY, 2016)",special district,2,2,False,1175,1648,1403,1144,ok,summary.zip,1.194,0.403
+2014G,2014,Cheyenne,"KEEFE MEMORIAL HEALTH SERVICE DISTRICT DIRECTORS (MAY, 2018)",special district,3,2,False,1175,1648,1421,1144,ok,summary.zip,1.209,0.5969
+2014G,2014,Douglas,TOWN OF PARKER COUNCILMEMBER,municipal council,3,8,True,21915,20770,37862,0,<=,summary.zip,1.728,0.4241
+2014G,2014,Eagle,TOWN OF AVON TOWN COUNCIL,municipal council,4,10,True,1808,0,4042,0,?,summary.zip,2.236,0.4411
+2014G,2014,Fremont,TOWN OF WILLIAMSBURG TRUSTEE,municipal council,6,7,True,974,0,1326,298,<=,summary.zip,1.361,0.7731
+2014G,2014,Gilpin,CITY OF CENTRAL ALDERMAN,municipal council,2,5,True,473,0,538,297,ok,summary.zip,1.137,0.4313
+2014G,2014,Pitkin,TOWN OF SNOWMASS VILLAGE TOWN COUNCIL,municipal council,2,3,True,7861,15461,1933,7749,na,summary.zip,,
+2014G,2014,Rio_Grande,"HIGH VALLEY PARK AND RECREATION DISTRICT DIRECTORS (MAY, 2016)",special district,2,2,False,2141,3308,1205,1258,ok,summary.zip,0.563,0.7186
+2014G,2014,Rio_Grande,"HIGH VALLEY PARK AND RECREATION DISTRICT DIRECTORS (MAY, 2018)",special district,3,3,False,2141,3308,1638,1258,ok,summary.zip,0.765,0.745
+2015C,2015,Jefferson,City Of Littleton Council Member At Large,municipal council,2,3,True,888,1778,1088,769,ok,summary.zip,1.225,0.3874
+2015C,2015,Jefferson,City Of Edgewater City Council Member,municipal council,5,6,True,1058,3146,3445,855,ok,summary.zip,3.256,0.3488
+2015C,2015,Jefferson,City Of Westminster City Councilor,municipal council,3,10,True,11604,30557,24902,0,?,summary.zip,2.146,0.2847
+2015C,2015,Arapahoe,City Of Aurora Council Member At-Large,municipal council,2,4,True,37720,37720,67778,44211,>=,summary.zip,1.533,0.2335
+2015C,2015,Arapahoe,City Of Englewood Council Member At-Large,municipal council,2,4,True,2554,8982,8982,5632,>=,summary.zip,1.595,0.2026
+2015C,2015,Arapahoe,City Of Greenwood Village Councilmember District 1,municipal council,2,4,True,1295,1295,2732,0,na,summary.zip,,
+2015C,2015,Arapahoe,City Of Greenwood Village Councilmember District 2,municipal council,2,2,False,767,767,1098,0,?,summary.zip,1.432,0.2842
+2015C,2015,Arapahoe,City Of Greenwood Village Councilmember District 3,municipal council,2,4,True,1375,1375,1911,0,?,summary.zip,1.39,0.3051
+2015C,2015,Arapahoe,City Of Greenwood Village Councilmember District 4,municipal council,2,2,False,1616,1616,1404,0,?,summary.zip,0.869,0.5656
+2015C,2015,Arapahoe,City Of Littleton Council Member At Large,municipal council,2,3,True,4018,15640,15640,9366,>=,summary.zip,1.67,0.1651
+2015C,2015,Arapahoe,Arapahoe County School District No. 1 (Englewood Schools) School Board Directors At-Large,school board,3,3,False,2396,8290,8315,0,na,summary.zip,,
+2015C,2015,Arapahoe,Arapahoe County School District Number Six (Littleton Public Schools) School Board Directors At-Large,school board,2,3,True,11931,30694,34707,0,na,summary.zip,,
+2015C,2015,Arapahoe,Deer Trail School District 26J School Board Director,school board,3,4,True,187,746,746,0,na,summary.zip,,
+2015C,2015,Arapahoe,Aurora Public School District 28J Board of Directors At-Large,school board,3,7,True,18343,18343,53689,0,?,summary.zip,2.927,0.0244
+2015C,2015,Arapahoe,Bennett School District 29J Board of Directors At Large,school board,3,7,True,246,1896,1896,0,na,summary.zip,,
+2015C,2015,Arapahoe,Strasburg School District 31J School Board Director,school board,3,6,True,167,969,969,464,>=,summary.zip,2.088,0.3039
+2015C,2015,Arapahoe,Byers School District 32J School Board Director,school board,4,8,True,274,1762,1762,564,>=,summary.zip,3.124,0.219
+2015C,2015,Alamosa,Sargent School District RE-33J School Board Director,school board,2,2,False,3656,8885,72,3617,na,summary.zip,,
+2015C,2015,Archuleta,Bayfield School District 10 Jt-R Board of Education,school board,3,4,True,3786,9645,8,3556,na,summary.zip,,
+2015C,2015,Archuleta,Ignacio School District 11-JT Board of Education,school board,3,8,True,3786,9645,345,3556,na,summary.zip,,
+2015C,2015,Baca,Campo School District RE-6 Directors,school board,3,5,True,124,196,343,0,?,summary.zip,2.766,0.078
+2015C,2015,Baca,Springfield School District No. Re-4 Directors 4-Year Term,school board,3,4,True,687,1298,1657,578,ok,summary.zip,2.412,0.196
+2015C,2015,Bent,City of Las Animas Municipal Light and Power Board,special district,2,2,False,665,1134,905,647,ok,summary.zip,1.361,0.3195
+2015C,2015,Bent,"City of Las Animas City Council Ward 1, Precinct 10",municipal council,2,2,False,230,386,321,0,?,summary.zip,1.396,0.3022
+2015C,2015,Bent,"City of Las Animas City Council Ward 3, Precinct 8",municipal council,2,2,False,260,421,356,0,?,summary.zip,1.369,0.3154
+2015C,2015,Bent,McClave School District RE-2 School Directors,school board,2,3,True,230,401,417,0,?,summary.zip,1.813,0.0935
+2015C,2015,Boulder,City Of Boulder Council,municipal council,5,17,True,31574,0,114246,28894,ok,sum.json,3.618,0.2763
+2015C,2015,Boulder,City Of Lafayette Council,municipal council,4,7,True,7268,0,19710,6813,ok,sum.json,2.712,0.322
+2015C,2015,Chaffee,Buena Vista School District R-31 At Large,school board,2,4,True,3057,0,4062,2462,ok,summary.zip,1.329,0.3356
+2015C,2015,Cheyenne,Cheyenne County School District RE-5 Director 4 Year Term,school board,2,2,False,481,1024,679,474,ok,summary.zip,1.412,0.2942
+2015C,2015,Cheyenne,Kit Carson School District R-1 Director,school board,3,4,True,239,380,641,237,ok,summary.zip,2.682,0.106
+2015C,2015,Crowley,Manzanola School District 3J School Board Director - At Large,school board,2,2,False,26,52,28,21,ok,summary.zip,1.077,0.4615
+2015C,2015,Crowley,Crowley County School District No. RE-1J Director at Large,school board,3,4,True,813,1853,1944,0,?,summary.zip,2.391,0.203
+2015C,2015,Dolores,Dove Creek Ambulance District Directors - May 2016,special district,2,2,False,821,0,811,809,ok,summary.zip,0.988,0.5061
+2015C,2015,Dolores,Dove Creek Ambulance District Directors - May 2018,special district,3,1,False,821,0,509,809,ok,summary.zip,0.62,0.7933
+2015C,2015,Douglas,City Of Aurora Council Member At-Large,municipal council,2,4,True,194,222275,261,181,ok,sum.json,1.345,0.3273
+2015C,2015,Douglas,City Of Littleton Council Member At Large,municipal council,2,3,True,38,222275,49,34,ok,sum.json,1.289,0.3553
+2015C,2015,Eagle,West Grand School District 1-Jt School Board Directors,school board,3,4,True,2,0,5,0,?,summary.zip,2.5,0.1667
+2015C,2015,Elbert,Elizabeth School District C-1 Board of Education Directors,school board,2,3,True,1701,6100,6778,0,na,summary.zip,,
+2015C,2015,Elbert,Agate School District 300 Board of Education Directors,school board,3,4,True,103,483,483,0,na,summary.zip,,
+2015C,2015,Elbert,Limon School District RE-4J School Board Directors at Large,school board,2,2,False,103,483,105,0,?,summary.zip,1.019,0.4903
+2015C,2015,Elbert,Calhan School District RJ-1 School Board Director,school board,2,5,True,17,52,52,0,na,summary.zip,,
+2015C,2015,Elbert,Elbert School District 200 Board of Directors,school board,3,8,True,353,2361,1804,0,na,summary.zip,,
+2015C,2015,Elbert,Miami Yoder School District JT-60 School Board Directors,school board,2,5,True,3,9,38,0,na,summary.zip,,
+2015C,2015,Elbert,Kiowa School District C-2 Board of Education Directors,school board,3,4,True,714,2771,1937,0,?,summary.zip,2.713,0.0957
+2015C,2015,Fremont,"City Of Canon City Council Member, At - Large",municipal council,2,4,True,4554,10477,6746,4474,ok,summary.zip,1.481,0.2593
+2015C,2015,Fremont,Fremont School District RE-1 Directors (At Large),school board,3,6,True,7717,18070,16532,0,?,summary.zip,2.142,0.2859
+2015C,2015,Garfield,DeBeque School District No. 49-JT Board of Education At Large Four Year Term,school board,2,2,False,26,32359,35,26,ok,sum.json,1.346,0.3269
+2015C,2015,Gilpin,Boulder Valley School District RE-2 Director District A,school board,4,2,False,0,0,326,1496,na,summary.zip,,
+2015C,2015,Gilpin,Boulder Valley School District RE-2 Director District C,school board,4,2,False,0,0,232,1496,na,summary.zip,,
+2015C,2015,Gilpin,Boulder Valley School District RE-2 Director District D,school board,4,1,False,0,0,284,1496,na,summary.zip,,
+2015C,2015,Gilpin,Boulder Valley School District RE-2 Director District G,school board,4,1,False,0,0,279,1496,na,summary.zip,,
+2015C,2015,Gilpin,Boulder Valley School District RE-2 Ballot Question 3A,ballot question,4,2,False,0,0,565,1496,na,summary.zip,,
+2015C,2015,Grand,West Grand School District 1-Jt School Board Directors,school board,3,4,True,790,0,1926,0,?,summary.zip,2.438,0.1873
+2015C,2015,Grand,Three Rivers Park and Recreation District Board of Directors (until the next regular election),special district,2,2,False,692,0,670,681,ok,summary.zip,0.968,0.5159
+2015C,2015,Grand,Three Rivers Park and Recreation District Board of Directors (until the second regular election),special district,3,3,False,692,0,930,681,ok,summary.zip,1.344,0.552
+2015C,2015,Gunnison,Town Of Crested Butte Council,municipal council,3,4,True,725,1414,1872,724,ok,summary.zip,2.582,0.1393
+2015C,2015,Huerfano,La Veta School District RE-2 School Director,school board,2,3,True,2155,4686,931,2124,na,summary.zip,,
+2015C,2015,Kit_Carson,Bethune School District R-5 Director At-Large,school board,2,3,True,178,307,305,0,?,summary.zip,1.713,0.1433
+2015C,2015,Kit_Carson,Hi-Plains School District R-23 Director At-Large,school board,3,5,True,217,433,580,0,?,summary.zip,2.673,0.1091
+2015C,2015,Las_Animas,City of Trinidad - Council Members,municipal council,3,7,True,2295,4125,6195,2214,ok,summary.zip,2.699,0.1002
+2015C,2015,Las_Animas,Trinidad School District No. 1 - Board of Directors,school board,3,6,True,2846,5223,7185,0,?,summary.zip,2.525,0.1585
+2015C,2015,Las_Animas,Primero School District RE-2 Board of Directors (4-Year Term),school board,3,5,True,393,738,919,350,ok,summary.zip,2.338,0.2205
+2015C,2015,Lincoln,Crowley County School District No. RE-1J Director at Large,school board,3,4,True,12,17,27,0,?,summary.zip,2.25,0.25
+2015C,2015,Lincoln,Karval School District RE-23 School Board Director at Large,school board,3,4,True,158,242,399,0,?,summary.zip,2.525,0.1582
+2015C,2015,Lincoln,Limon School District RE-4J School Board Directors at Large,school board,2,3,True,583,1387,931,0,?,summary.zip,1.597,0.2015
+2015C,2015,Lincoln,Miami Yoder School District JT-60 School Board Directors,school board,2,5,True,56,121,101,0,?,summary.zip,1.804,0.0982
+2015C,2015,Logan,Frenchman School District RE-3 Directors,school board,3,6,True,385,691,1050,0,?,summary.zip,2.727,0.0909
+2015C,2015,Logan,Plateau School District RE-5 School Board Director,school board,3,4,True,216,403,584,0,?,summary.zip,2.704,0.0988
+2015C,2015,Mesa,DeBeque School District No. 49-JT Board of Education At Large Four Year Term,school board,2,2,False,212,0,405,287,>=,summary.zip,1.411,0.2944
+2015C,2015,Moffat,Moffat County Affiliated Junior College District Board of Control Members - At Large,special district,3,5,True,3295,0,6501,3240,ok,summary.zip,1.973,0.3423
+2015C,2015,Montrose,Norwood School District R-2J School Board Director,school board,3,4,True,173,318,356,0,?,summary.zip,2.058,0.3141
+2015C,2015,Morgan,Wiggins School District RE-50J Board of Education,school board,3,7,True,616,1451,1670,0,?,summary.zip,2.711,0.0963
+2015C,2015,Otero,City Of Rocky Ford Ward I,municipal council,2,2,False,306,612,404,0,?,summary.zip,1.32,0.3399
+2015C,2015,Otero,City Of Rocky Ford Ward III,municipal council,2,3,True,354,694,533,0,?,summary.zip,1.506,0.2472
+2015C,2015,Otero,Manzanola School District 3J School Board Director - At Large,school board,2,2,False,201,434,288,198,ok,summary.zip,1.433,0.2836
+2015C,2015,Otero,East Otero School District R-1 School Board,school board,3,7,True,2251,4477,5673,0,?,summary.zip,2.52,0.1599
+2015C,2015,Otero,Rocky Ford School District R-2 School Board,school board,2,3,True,1401,2788,2101,0,?,summary.zip,1.5,0.2502
+2015C,2015,Ouray,City Of Ouray Council Director - At Large,municipal council,2,2,False,432,0,526,428,ok,summary.zip,1.218,0.3912
+2015C,2015,Ouray,Ouray School District R-1 School Board Director - At Large - Four Year Term,school board,2,2,False,727,0,957,621,ok,summary.zip,1.316,0.3418
+2015C,2015,Phillips,Holyoke School District RE-1J Director Four Year Term,school board,4,7,True,1015,2044,3617,973,ok,summary.zip,3.564,0.1091
+2015C,2015,Pitkin,Aspen School District No. 1 (RE) Board of Directors Four Year Term,school board,2,5,True,4696,0,6501,4607,ok,summary.zip,1.384,0.3078
+2015C,2015,Prowers,Holly School District RE-3 Directors,school board,2,3,True,417,799,773,0,?,summary.zip,1.854,0.0731
+2015C,2015,Pueblo,City Of Pueblo Member Pueblo Board Of Water Works,special district,2,2,False,5386,22587,32363,23272,>=,summary.zip,1.391,0.3047
+2015C,2015,Pueblo,Pueblo School District No. 60 Director - At Large,school board,3,8,True,5633,23981,57890,0,na,summary.zip,,
+2015C,2015,Rio_Blanco,Meeker School District RE-1 Director District - At Large (4-Year Term),school board,3,6,True,1208,0,3098,1121,ok,summary.zip,2.565,0.1451
+2015C,2015,Rio_Blanco,Rangely School District RE-4 Director District - At Large,school board,3,4,True,752,0,1683,750,ok,summary.zip,2.238,0.254
+2015C,2015,Rio_Grande,City Of Monte Vista City Councilman,municipal council,2,3,True,801,2494,1050,775,ok,summary.zip,1.311,0.3446
+2015C,2015,Rio_Grande,Del Norte School District C-7 Board of Directors,school board,3,5,True,1190,2968,2562,0,?,summary.zip,2.153,0.2824
+2015C,2015,Rio_Grande,Sargent School District RE-33J School Board Director,school board,2,2,False,350,632,483,347,ok,summary.zip,1.38,0.31
+2015C,2015,Routt,Hayden School District RE-1 Director District At-Large,school board,2,4,True,703,0,1101,441,ok,summary.zip,1.566,0.2169
+2015C,2015,Routt,Steamboat Springs School District RE-2 Director District At Large Four Year Term,school board,3,5,True,6556,0,12151,6470,ok,summary.zip,1.853,0.3822
+2015C,2015,Saguache,Mountain Valley School District RE-1 Director Member At-Large,school board,3,4,True,486,0,1051,0,?,summary.zip,2.163,0.2791
+2015C,2015,San_Miguel,Town Of Telluride Town Council,municipal council,2,8,True,1127,0,2020,1076,ok,summary.zip,1.792,0.1038
+2015C,2015,San_Miguel,Telluride School District R-1 School Board Director,school board,3,4,True,2161,0,3088,0,?,summary.zip,1.429,0.5237
+2015C,2015,San_Miguel,Norwood School District R-2J School Board Director,school board,3,4,True,466,0,901,0,?,summary.zip,1.933,0.3555
+2015C,2015,Sedgwick,Holyoke School District RE-1J Director Four Year Term,school board,4,7,True,5,8,14,5,ok,summary.zip,2.8,0.3
+2015C,2015,Summit,Summit School District RE-1 School Director At-Large,school board,4,5,True,6547,21165,12053,0,?,summary.zip,1.841,0.5398
+2015C,2015,Summit,West Grand School District 1-Jt School Board Directors,school board,3,4,True,38,99,57,0,?,summary.zip,1.5,0.5
+2015C,2015,Washington,Otis School District R-3 School Board Director - At Large Four Year Term,school board,3,5,True,316,549,831,295,ok,summary.zip,2.63,0.1234
+2015C,2015,Washington,Woodlin School District R-104 School Board Director - At Large,school board,3,3,False,121,212,281,121,ok,summary.zip,2.322,0.2259
+2015C,2015,Washington,Akron School District R-1 School Board Director - At Large,school board,3,5,True,814,1426,2112,0,?,summary.zip,2.595,0.1351
+2015C,2015,Yuma,City Of Wray City Council,municipal council,4,4,False,592,1082,1922,588,ok,summary.zip,3.247,0.1883
+2015C,2015,Yuma,Wray School District RD-2 Board of Education,school board,3,5,True,1249,2179,3473,0,?,summary.zip,2.781,0.0731
+2015C,2015,Yuma,Holyoke School District RE-1J Director Four Year Term,school board,4,7,True,28,49,111,25,ok,summary.zip,3.964,0.0089
+2015C,2015,Yuma,Idalia School District RJ-3 Directors - At Large,school board,2,5,True,207,314,393,0,?,summary.zip,1.899,0.0507
+2016G,2016,Boulder,Town of Superior Trustee,municipal council,3,9,True,7040,7834,12857,6510,ok,summary.zip,1.826,0.3912
+2016G,2016,Clear_Creek,Clear Creek County Health Service District Ballot Question 5F,ballot question,2,5,True,5375,7215,4012,4062,<=,summary.zip,0.746,0.6268
+2016G,2016,Clear_Creek,Clear Creek County Health Service District Ballot Question 5G,ballot question,3,4,True,5375,7215,5360,4062,<=,summary.zip,0.997,0.6676
+2016G,2016,Douglas,Town Of Parker Councilmember,municipal council,3,5,True,34499,44464,56365,24864,ok,summary.zip,1.634,0.4554
+2016G,2016,Eagle,Town of Avon Town Council,municipal council,3,5,True,4103,34729,4635,0,<=,summary.zip,1.13,0.6234
+2016G,2016,Fremont,Town Of Brookside Town Trustee At-Large,municipal council,3,6,True,642,0,416,0,<=,summary.zip,0.648,0.784
+2016G,2016,Fremont,Town Of Williamsburg Trustee,municipal council,6,8,True,1258,0,1293,365,<=,summary.zip,1.028,0.8287
+2016G,2016,Fremont,"Tallahassee Fire Protection District Director (May, 2020)",special district,3,3,False,3548,0,941,465,ok,summary.zip,0.265,0.9116
+2016G,2016,Gilpin,City Of Central Alderman,municipal council,2,2,False,579,607,556,411,ok,summary.zip,0.96,0.5199
+2016G,2016,Kiowa,Kiowa County Fire Protection District Board of Director At Large,special district,2,2,False,930,1039,992,877,ok,summary.zip,1.067,0.4667
+2016G,2016,Mesa,Roan Creek Metropolitan District Director (Two Year Term),special district,2,2,False,1274,1445,495,479,ok,summary.zip,0.389,0.8057
+2016G,2016,Mesa,Roan Creek Metropolitan District Director (Four Year Term),special district,3,4,True,1274,1445,793,479,<=,summary.zip,0.622,0.7925
+2016G,2016,Otero,"City Of Rocky Ford Successor Candidate - City Councilmember, Ward I",municipal council,2,3,True,1807,0,709,509,<=,summary.zip,0.392,0.8038
+2016G,2016,Otero,"City Of Rocky Ford Successor Candidate - City Councilmember, Ward III",municipal council,2,2,False,1744,0,611,566,ok,summary.zip,0.35,0.8248
+2016G,2016,Pitkin,Town Of Snowmass Village Town Council,municipal council,2,3,True,2275,2765,2446,1478,ok,summary.zip,1.075,0.4624
+2016G,2016,Routt,Town of Hayden Councilmember,municipal council,3,4,True,1482,0,1856,1420,ok,summary.zip,1.252,0.5825
+2017C,2017,Adams,City of Aurora Council Member At-Large,municipal council,2,8,True,3280,18490,5256,3202,ok,summary.zip,1.602,0.1988
+2017C,2017,Adams,City of Commerce City Councilmember - At Large,municipal council,2,6,True,7011,27943,9292,6794,ok,summary.zip,1.325,0.3373
+2017C,2017,Adams,City of Westminster City Councillor,municipal council,3,6,True,11830,43826,30583,11567,ok,summary.zip,2.585,0.1383
+2017C,2017,Adams,Adams County School District 14 School Board Directors,school board,2,4,True,2631,15781,4155,0,?,summary.zip,1.579,0.2104
+2017C,2017,Adams,Adams-Arapahoe School District 28J Board of Directors At-Large,school board,4,9,True,3140,17802,9833,0,?,summary.zip,3.132,0.2171
+2017C,2017,Adams,Bennett School District 29J School Director At Large,school board,2,3,True,909,2432,1327,0,?,summary.zip,1.46,0.2701
+2017C,2017,Adams,Byers School District 32J School Board Director,school board,3,3,False,99,339,193,98,ok,summary.zip,1.949,0.3502
+2017C,2017,Adams,Westminster Public Schools Board of Education At Large,school board,2,3,True,8003,40188,13344,0,?,summary.zip,1.667,0.1663
+2017C,2017,Adams,Wiggins School District RE-50J Board of Education At Large,school board,2,3,True,5,28,9,0,?,summary.zip,1.8,0.1
+2017C,2017,Alamosa,Sargent School District RE-33J School Board Director,school board,3,5,True,42,92,121,0,?,summary.zip,2.881,0.0397
+2017C,2017,Arapahoe,City of Aurora Council Member At-Large,municipal council,2,8,True,41223,192346,71710,39977,ok,summary.zip,1.74,0.1302
+2017C,2017,Arapahoe,City of Greenwood Village Councilmember District 1,municipal council,2,3,True,1608,3269,2863,0,?,summary.zip,1.78,0.1098
+2017C,2017,Arapahoe,City of Greenwood Village Councilmember District 2,municipal council,2,5,True,963,4342,1858,0,?,summary.zip,1.929,0.0353
+2017C,2017,Arapahoe,City of Greenwood Village Councilmember District 3,municipal council,2,2,False,951,5514,1335,0,?,summary.zip,1.404,0.2981
+2017C,2017,Arapahoe,City of Greenwood Village Councilmember District 4,municipal council,2,4,True,1521,6307,1786,0,?,summary.zip,1.174,0.4129
+2017C,2017,Arapahoe,City of Littleton Council Member at Large,municipal council,2,4,True,10597,31585,19696,11026,>=,summary.zip,1.786,0.1068
+2017C,2017,Arapahoe,Adams-Arapahoe School District 28J Board of Directors At-Large,school board,4,9,True,20422,101377,66377,0,?,summary.zip,3.25,0.1874
+2017C,2017,Arapahoe,Bennett School District 29J School Director at Large,school board,2,3,True,696,2092,884,0,?,summary.zip,1.27,0.3649
+2017C,2017,Arapahoe,Byers School District 32J School Board Director,school board,3,3,False,422,1444,822,420,ok,summary.zip,1.948,0.3507
+2017C,2017,Arapahoe,Englewood School District School Board Director,school board,3,5,True,5395,21430,10364,0,?,summary.zip,1.921,0.3597
+2017C,2017,Archuleta,Bayfield School District 10 Jt-R Board of Education,school board,2,3,True,9,21,13,0,?,summary.zip,1.444,0.2778
+2017C,2017,Baca,Springfield School District RE-4 School Board Director,school board,2,3,True,576,1483,1041,0,?,summary.zip,1.807,0.0964
+2017C,2017,Baca,Walsh School District RE 1 School Board Director,school board,2,3,True,365,715,692,0,?,summary.zip,1.896,0.0521
+2017C,2017,Bent,City of Las Animas Light & Power Board 1,special district,2,1,False,351,1554,303,0,?,summary.zip,0.863,0.5684
+2017C,2017,Bent,McClave School District RE-2 School Director,school board,3,4,True,223,469,598,0,?,summary.zip,2.682,0.1061
+2017C,2017,Bent,Wiley School District RE-13 JT School Director,school board,4,7,True,47,113,167,0,?,summary.zip,3.553,0.1117
+2017C,2017,Boulder,City of Boulder Council Candidates,municipal council,5,14,True,33294,0,136282,30855,ok,sum.json,4.093,0.1813
+2017C,2017,Boulder,City of Lafayette Council Candidates,municipal council,4,14,True,8799,0,27690,8485,ok,sum.json,3.147,0.2133
+2017C,2017,Boulder,City of Longmont City Council At Large,municipal council,2,5,True,25199,0,40082,24791,ok,sum.json,1.591,0.2047
+2017C,2017,Boulder,Estes Park School District R-3 School Director At Large,school board,2,2,False,333,0,207,198,<=,sum.json,0.622,0.6892
+2017C,2017,Crowley,Crowley County School District RE-1J Director,school board,4,4,False,794,1935,1570,788,ok,summary.zip,1.977,0.5057
+2017C,2017,Crowley,Manzanola School District 3J Director At Large,school board,3,5,True,31,56,65,31,ok,summary.zip,2.097,0.3011
+2017C,2017,Douglas,City Of Aurora Council Member At-Large,municipal council,2,8,True,514,1269,396,258,<=,summary.zip,0.77,0.6148
+2017C,2017,Douglas,City Of Littleton Council Member At Large,municipal council,2,4,True,925,2149,92,64,<=,summary.zip,0.099,0.9503
+2017C,2017,El_Paso,Academy School District 20 Director,school board,3,5,True,29768,73948,53031,0,?,summary.zip,1.781,0.4062
+2017C,2017,El_Paso,Big Sandy School District 100J Director (4 Year Term),school board,2,3,True,120,386,171,83,ok,summary.zip,1.425,0.2875
+2017C,2017,El_Paso,Cheyenne Mountain School District 12 Director (4 Year Term),school board,2,2,False,8309,21955,8621,8177,ok,summary.zip,1.038,0.4812
+2017C,2017,El_Paso,Colorado Springs School District 11 Director (4 Year Term),school board,3,4,True,58017,146433,86589,57646,ok,summary.zip,1.492,0.5025
+2017C,2017,El_Paso,Fountain-Fort Carson School District 8 Director,school board,2,3,True,2646,18576,3733,0,?,summary.zip,1.411,0.2946
+2017C,2017,El_Paso,Hanover School District 28 Director,school board,2,6,True,433,2858,571,394,ok,summary.zip,1.319,0.3406
+2017C,2017,El_Paso,Harrison School District 2 Director,school board,3,4,True,8369,36021,11726,0,?,summary.zip,1.401,0.533
+2017C,2017,El_Paso,Manitou Springs School District 14 Director,school board,2,5,True,2502,7428,4324,0,?,summary.zip,1.728,0.1359
+2017C,2017,El_Paso,Peyton School District 23JT Director,school board,3,3,False,1194,4527,1556,1181,ok,summary.zip,1.303,0.5656
+2017C,2017,El_Paso,Widefield School District 3 Director (4 Year Term),school board,3,3,False,7822,30241,12949,8954,>=,summary.zip,1.446,0.5179
+2017C,2017,Elbert,Agate School District #300 School Board Director,school board,2,3,True,237,2617,369,276,>=,summary.zip,1.337,0.3315
+2017C,2017,Elbert,Big Sandy School District 100J Director (4 Year Term),school board,2,3,True,237,2617,609,276,na,summary.zip,,
+2017C,2017,Elbert,Elizabeth School District C-1 Board of Education Directors,school board,3,4,True,4533,13250,11037,0,?,summary.zip,2.435,0.1884
+2017C,2017,Elbert,Limon School District RE-4J School Board Director,school board,3,5,True,237,2617,201,276,>=,summary.zip,0.728,0.7572
+2017C,2017,Elbert,Peyton School District 23JT Director,school board,3,3,False,35,1153,35,33,ok,summary.zip,1.0,0.6667
+2017C,2017,Fremont,Fremont County RE-1 School Directors At Large,school board,2,2,False,8287,19355,10144,8224,ok,summary.zip,1.224,0.388
+2017C,2017,Garfield,De Beque School District 49-JT School Board Director (4 Year Term),school board,3,4,True,32,57,55,24,ok,summary.zip,1.719,0.4271
+2017C,2017,Gunnison,Town of Crested Butte Town Council,municipal council,4,8,True,761,1511,2640,749,ok,summary.zip,3.469,0.1327
+2017C,2017,Huerfano,Huerfano School District Re-1 School Board Director,school board,3,7,True,1814,3907,4330,0,?,summary.zip,2.387,0.2043
+2017C,2017,Jefferson,City of Edgewater City Council Member,municipal council,3,6,True,1074,3324,2586,1060,ok,summary.zip,2.408,0.1974
+2017C,2017,Jefferson,City of Littleton Council Member at Large,municipal council,2,4,True,731,1802,1232,719,ok,summary.zip,1.685,0.1573
+2017C,2017,Jefferson,Town of Mountain View Town Council,municipal council,3,4,True,211,420,456,211,ok,summary.zip,2.161,0.2796
+2017C,2017,Jefferson,City of Westminster City Councillor,municipal council,3,6,True,8776,31368,21568,8467,ok,summary.zip,2.458,0.1808
+2017C,2017,Kit_Carson,Bethune School District R-5 Directors - At Large,school board,3,1,False,158,311,122,157,ok,summary.zip,0.772,0.7426
+2017C,2017,Kit_Carson,Burlington School District RE-6J Directors - At Large (4 Year Term),school board,3,5,True,1067,2717,2883,1035,ok,summary.zip,2.702,0.0993
+2017C,2017,Kit_Carson,Hi-Plains School District R-23 Directors - At Large,school board,2,4,True,196,452,362,0,?,summary.zip,1.847,0.0765
+2017C,2017,Kit_Carson,Idalia School District RJ-3 Directors - At Large,school board,3,5,True,0,2,0,0,na,summary.zip,,
+2017C,2017,La_Plata,Bayfield School District 10 Jt-R Board of Education,school board,2,3,True,1252,7285,2122,0,?,summary.zip,1.695,0.1526
+2017C,2017,Larimer,Estes Park School District R-3 School Director At Large,school board,2,2,False,4244,9262,4154,4212,ok,summary.zip,0.979,0.5106
+2017C,2017,Larimer,Park Hospital District Board Director May 2018,special district,2,4,True,4501,9296,5460,0,?,summary.zip,1.213,0.3935
+2017C,2017,Larimer,Park Hospital District Board Director May 2020,special district,3,5,True,4501,9296,8221,0,?,summary.zip,1.826,0.3912
+2017C,2017,Las_Animas,City of Trinidad Council Member - At Large,municipal council,3,10,True,2541,5595,6962,2436,ok,summary.zip,2.74,0.0867
+2017C,2017,Las_Animas,Primero Reorganized School District 2 Board Member (Four Year Term),school board,4,6,True,460,1169,1291,392,ok,summary.zip,2.807,0.2984
+2017C,2017,Las_Animas,Trinidad School District Number 1 Board Member,school board,2,6,True,3151,6815,5393,0,?,summary.zip,1.712,0.1442
+2017C,2017,Lincoln,Crowley County School District RE-1J Director At Large,school board,4,4,False,14,18,12,14,ok,summary.zip,0.857,0.7857
+2017C,2017,Lincoln,Limon School District RE-4J School Board Director,school board,3,5,True,628,1499,1734,0,?,summary.zip,2.761,0.0796
+2017C,2017,Logan,Haxtun School District RE-2J Board of Education Director,school board,3,3,False,27,48,66,27,ok,summary.zip,2.444,0.1852
+2017C,2017,Mesa,De Beque School District 49-JT School Board Director (4 Year Term),school board,3,4,True,234,670,534,189,ok,summary.zip,2.282,0.2393
+2017C,2017,Montezuma,Dolores School District RE-4A Board of Directors,school board,2,7,True,958,3302,1790,0,?,summary.zip,1.868,0.0658
+2017C,2017,Montezuma,Mancos School District RE-6 Board of Directors Mancos,school board,2,2,False,1061,2767,1401,1059,ok,summary.zip,1.32,0.3398
+2017C,2017,Morgan,Morgan County School District RE-3 Board of Education Director,school board,3,4,True,2933,9107,6873,0,?,summary.zip,2.343,0.2189
+2017C,2017,Morgan,Weldon Valley School District RE-20J Board of Education Director,school board,3,4,True,217,599,546,0,?,summary.zip,2.516,0.1613
+2017C,2017,Morgan,Wiggins School District RE-50J Board of Education At Large,school board,2,3,True,596,1636,780,0,?,summary.zip,1.309,0.3456
+2017C,2017,Otero,Cheraw School District 31 School Board Member  (4 Year Term),school board,2,4,True,239,525,440,156,ok,summary.zip,1.841,0.0795
+2017C,2017,Otero,East Otero School District R-1 School Board Member  (2 Year Term),school board,2,3,True,2412,5473,3622,2325,ok,summary.zip,1.502,0.2492
+2017C,2017,Otero,East Otero School District R-1 School Board Member  (4 Year Term),school board,2,3,True,2412,5473,3505,2325,ok,summary.zip,1.453,0.2734
+2017C,2017,Otero,Swink School District 33 School Board Member At Large (2 Year Term),school board,2,2,False,404,916,610,0,?,summary.zip,1.51,0.245
+2017C,2017,Otero,Swink School District 33 School Board Member At Large (4 Year Term),school board,2,4,True,404,916,721,0,?,summary.zip,1.785,0.1077
+2017C,2017,Otero,Manzanola School District 3J Director At Large,school board,3,5,True,363,518,820,360,ok,summary.zip,2.259,0.247
+2017C,2017,Otero,La Junta Health Service District Director (2 Year Term),special district,2,2,False,2082,4338,2607,2040,ok,summary.zip,1.252,0.3739
+2017C,2017,Otero,La Junta Health Service District Director (4 Year Term),special district,3,3,False,2082,4338,3489,2040,ok,summary.zip,1.676,0.4414
+2017C,2017,Ouray,City of Ouray - Council Member,municipal council,2,4,True,522,895,910,502,ok,summary.zip,1.743,0.1284
+2017C,2017,Ouray,Ouray School District R-1 School Board Director - 4 Year Term,school board,3,4,True,844,1534,1899,830,ok,summary.zip,2.25,0.25
+2017C,2017,Park,Park County School District RE-2 School Board Director,school board,2,5,True,2118,6141,2887,0,?,summary.zip,1.363,0.3185
+2017C,2017,Park,Platte Canyon School District #1 School Board Director,school board,3,6,True,1979,7887,5193,0,?,summary.zip,2.624,0.1253
+2017C,2017,Phillips,Holyoke School District RE-1J School Board Director,school board,3,4,True,878,2085,2218,0,?,summary.zip,2.526,0.1579
+2017C,2017,Phillips,Haxtun School District RE-2J Board of Education Director,school board,3,3,False,572,1100,1213,566,ok,summary.zip,2.121,0.2931
+2017C,2017,Pitkin,Aspen School District No. 1 (RE) School Board Director,school board,3,5,True,3180,11845,7365,0,?,summary.zip,2.316,0.228
+2017C,2017,Prowers,Holly School District RE-3 School Director,school board,3,7,True,459,906,1316,0,?,summary.zip,2.867,0.0443
+2017C,2017,Prowers,Wiley School District RE-13 JT School Director,school board,4,7,True,261,572,952,0,?,summary.zip,3.648,0.0881
+2017C,2017,Pueblo,City of Pueblo City Council Member-At Large,municipal council,2,7,True,24258,70916,40289,23952,ok,summary.zip,1.661,0.1696
+2017C,2017,Pueblo,Pueblo School District No. 60 Director At Large,school board,2,5,True,24820,72283,40506,0,?,summary.zip,1.632,0.184
+2017C,2017,Rio_Blanco,Meeker School District RE-1 Director,school board,4,5,True,947,0,3223,0,?,summary.zip,3.403,0.1492
+2017C,2017,Rio_Blanco,Rangely School District RE-4 Director,school board,2,4,True,830,0,1415,823,ok,summary.zip,1.705,0.1476
+2017C,2017,Rio_Grande,City Of Monte Vista Councilor,municipal council,2,3,True,1015,2531,1758,1007,ok,summary.zip,1.732,0.134
+2017C,2017,Rio_Grande,Del Norte School District C-7 Board of Directors,school board,2,3,True,1532,3047,2292,1525,ok,summary.zip,1.496,0.252
+2017C,2017,Rio_Grande,Sargent School District RE-33J School Board Director,school board,3,5,True,295,644,776,0,?,summary.zip,2.631,0.1232
+2017C,2017,Routt,Steamboat Springs School District RE-2 Director At Large,school board,2,2,False,5522,15260,4238,5420,ok,summary.zip,0.767,0.6163
+2017C,2017,Routt,Hayden School District RE-1 Director At Large,school board,3,5,True,862,1378,1960,860,ok,summary.zip,2.274,0.2421
+2017C,2017,Saguache,Mountain Valley School District RE-1 Board of Education - Board Member,school board,2,1,False,592,1179,104,591,na,summary.zip,,
+2017C,2017,San_Miguel,Town of Telluride Town Council,municipal council,4,10,True,1105,2245,3967,0,?,summary.zip,3.59,0.1025
+2017C,2017,San_Miguel,Telluride School District R-1 School Board Director - 4 Year Term,school board,2,3,True,2154,5147,3058,1473,ok,summary.zip,1.42,0.2902
+2017C,2017,Sedgwick,Haxtun School District RE-2J Board of Education Director,school board,3,3,False,5,8,14,5,ok,summary.zip,2.8,0.0667
+2017C,2017,Sedgwick,Holyoke School District RE-1J School Board Director,school board,3,4,True,5,10,12,0,?,summary.zip,2.4,0.2
+2017C,2017,Sedgwick,Julesburg School District RE-1 Board of Education Director,school board,3,6,True,511,1159,1366,0,?,summary.zip,2.673,0.1089
+2017C,2017,Weld,City of Dacono Council Members,municipal council,2,2,False,447,3143,587,442,ok,summary.zip,1.313,0.3434
+2017C,2017,Weld,Weld County School District 6 Board of Education School Director,school board,4,4,False,22344,71030,44674,21936,ok,summary.zip,1.999,0.5002
+2017C,2017,Weld,Pawnee School District RE-12 Board of Education,school board,3,4,True,219,402,544,217,ok,summary.zip,2.484,0.172
+2017C,2017,Weld,Wiggins School District RE-50J Board of Education At Large,school board,2,3,True,20,121,23,0,?,summary.zip,1.15,0.425
+2017C,2017,Yuma,City of Wray City Council,municipal council,3,5,True,523,1279,1474,510,ok,summary.zip,2.818,0.0605
+2017C,2017,Yuma,Holyoke School District RE-1J School Board Director,school board,3,4,True,19,45,50,0,?,summary.zip,2.632,0.1228
+2017C,2017,Yuma,Idalia School District RJ-3 Directors - At Large,school board,3,5,True,205,342,590,0,?,summary.zip,2.878,0.0407
+2017C,2017,Yuma,Haxtun School District RE-2J Board of Education Director,school board,3,3,False,5,18,14,5,ok,summary.zip,2.8,0.0667
+2017C,2017,Yuma,Yuma School District-1 School Board Director - 4 Year Term,school board,3,4,True,996,2790,2640,885,ok,summary.zip,2.651,0.1165
+2018G,2018,Boulder,Town of Superior Trustee,municipal council,3,6,True,6784,0,14257,5959,ok,sum.json,2.102,0.2995
+2018G,2018,Delta,North Fork Ambulance Health Service District Directors (Four-Year Terms),special district,3,3,False,6073,8205,8762,5055,ok,summary.zip,1.443,0.5191
+2018G,2018,Delta,North Fork Ambulance Health Service District Directors (Two-Year Terms),special district,2,2,False,6073,8205,6156,5055,ok,summary.zip,1.014,0.4932
+2018G,2018,Douglas,Town of Parker Councilmember,municipal council,3,10,True,30540,47727,57311,0,?,summary.zip,1.877,0.3745
+2018G,2018,Douglas,City of Castle Pines Ballot Question 2I,ballot question,13,10,False,6962,9117,14459,5480,ok,summary.zip,2.077,0.8402
+2018G,2018,Eagle,Town of Avon Town Council,municipal council,4,8,True,3393,6040,5276,1915,<=,summary.zip,1.555,0.6113
+2018G,2018,Elbert,Town of Kiowa Board of Trustees,municipal council,5,5,False,2348,3324,1111,286,ok,summary.zip,0.473,0.9054
+2018G,2018,Fremont,Town of Brookside Town Trustee At-Large,municipal council,2,2,False,761,1165,206,115,ok,summary.zip,0.271,0.8647
+2018G,2018,Fremont,Town of Rockvale Town Trustees,municipal council,4,4,False,1116,1762,580,248,ok,summary.zip,0.52,0.8701
+2018G,2018,Fremont,Town of Williamsburg Town Trustees,municipal council,4,5,True,1116,1762,714,248,<=,summary.zip,0.64,0.8401
+2018G,2018,Fremont,Arkansas Valley Ambulance District Board of Directors (May 2020),special district,2,2,False,2079,2971,997,811,ok,summary.zip,0.48,0.7602
+2018G,2018,Fremont,Arkansas Valley Ambulance District Board of Directors (May 2022),special district,3,3,False,2079,2971,1485,811,ok,summary.zip,0.714,0.7619
+2018G,2018,Gunnison,North Fork Ambulance Health Service District Directors (Four-Year Terms),special district,3,3,False,58,120,92,70,>=,summary.zip,1.314,0.5619
+2018G,2018,Gunnison,North Fork Ambulance Health Service District Directors (Two-Year Terms),special district,2,2,False,58,120,68,70,>=,summary.zip,0.971,0.5143
+2018G,2018,Lincoln,Hugo Fire Protection District Directors (Two Year Term),special district,2,2,False,798,1107,729,565,ok,summary.zip,0.914,0.5432
+2018G,2018,Lincoln,Hugo Fire Protection District Directors (Four Year Term),special district,3,3,False,798,1107,1122,565,ok,summary.zip,1.406,0.5313
+2018G,2018,Montrose,North Fork Ambulance Health Service District Directors (Four-Year Terms),special district,3,3,False,146,186,272,140,ok,summary.zip,1.863,0.379
+2018G,2018,Montrose,North Fork Ambulance Health Service District Directors (Two-Year Terms),special district,2,2,False,146,186,188,140,ok,summary.zip,1.288,0.3562
+2018G,2018,Pitkin,Town of Snowmass Village Town Council,municipal council,2,2,False,2111,3259,2193,1441,ok,summary.zip,1.039,0.4806
+2018G,2018,Routt,Town of Hayden Councilmember,municipal council,3,3,False,1322,0,1486,1290,ok,summary.zip,1.124,0.6253
+2018G,2018,Weld,Town of Hudson Town Council,municipal council,4,4,False,1428,2160,1340,553,ok,summary.zip,0.938,0.7654
+2018G,2018,Weld,City of Dacono Council Members,municipal council,2,3,True,3393,5432,2410,1861,<=,summary.zip,0.71,0.6449
+2018G,2018,Weld,Town of Gilcrest Trustee,municipal council,4,4,False,1136,1585,708,351,ok,summary.zip,0.623,0.8442
+2018G,2018,Weld,Town of Lochbuie Trustee,municipal council,3,4,True,2155,3757,3007,1948,ok,summary.zip,1.395,0.5349
+2019C,2019,Adams,City of Aurora Council Member - At Large,municipal council,2,6,True,5354,19608,8443,5226,ok,sum.json,1.577,0.2115
+2019C,2019,Adams,City of Commerce City Councilmember - At Large,municipal council,2,8,True,9906,30305,13072,9408,ok,sum.json,1.32,0.3402
+2019C,2019,Adams,City of Westminster Councillor,municipal council,3,8,True,17568,45253,42768,0,?,sum.json,2.434,0.1885
+2019C,2019,Adams,Adams County School District 14 Board Of Education,school board,3,5,True,4139,16427,8184,0,?,sum.json,1.977,0.3409
+2019C,2019,Adams,Adams-Arapahoe School District 28J Board of Directors - At Large,school board,3,5,True,5007,18704,10627,0,?,sum.json,2.122,0.2925
+2019C,2019,Adams,Bennett School District 29J School Director - At Large,school board,3,5,True,1194,2548,2569,1186,ok,sum.json,2.152,0.2828
+2019C,2019,Adams,Byers School District 32J School Board Director,school board,4,5,True,180,351,473,0,?,sum.json,2.628,0.3431
+2019C,2019,Adams,Deer Trail School District 26J Director of the Board of Education,school board,3,5,True,9,18,20,0,?,sum.json,2.222,0.2593
+2019C,2019,Adams,Strasburg School District 31J School Board Director,school board,3,3,False,1319,2830,2319,1304,ok,sum.json,1.758,0.4139
+2019C,2019,Arapahoe,City of Aurora Council Member - At Large,municipal council,2,6,True,71161,198342,107088,68541,ok,sum.json,1.505,0.2476
+2019C,2019,Arapahoe,City of Englewood Office of Council Member - At Large,municipal council,2,3,True,8684,23909,11995,0,?,sum.json,1.381,0.3094
+2019C,2019,Arapahoe,City of Greenwood Village Councilmember District 1,municipal council,2,2,False,1712,3281,2259,0,?,sum.json,1.32,0.3402
+2019C,2019,Arapahoe,City of Greenwood Village Councilmember District 2,municipal council,2,3,True,2280,3357,1698,0,<=,sum.json,0.745,0.6276
+2019C,2019,Arapahoe,City of Greenwood Village Councilmember District 3,municipal council,2,4,True,2161,2805,2365,0,?,sum.json,1.094,0.4528
+2019C,2019,Arapahoe,City of Greenwood Village Councilmember District 4,municipal council,2,2,False,1921,2798,1556,0,?,sum.json,0.81,0.595
+2019C,2019,Arapahoe,City of Littleton Council Member - At Large,municipal council,2,5,True,13956,31799,22065,0,?,sum.json,1.581,0.2095
+2019C,2019,Arapahoe,Adams-Arapahoe School District 28J Board of Directors - At Large,school board,3,5,True,33152,102323,66288,0,?,sum.json,2.0,0.3335
+2019C,2019,Arapahoe,Arapahoe County School District #6 Littleton Public Schools School Director - At Large,school board,2,4,True,36005,75417,48204,0,?,sum.json,1.339,0.3306
+2019C,2019,Arapahoe,Bennett School District 29J School Director - At Large,school board,3,5,True,1092,2212,2094,1084,ok,sum.json,1.918,0.3608
+2019C,2019,Arapahoe,Byers School District 32J School Board Director,school board,4,5,True,702,1524,1951,0,?,sum.json,2.779,0.3052
+2019C,2019,Arapahoe,Deer Trail School District 26J Director of the Board of Education,school board,3,5,True,379,803,971,0,?,sum.json,2.562,0.146
+2019C,2019,Arapahoe,Strasburg School District 31J School Board Director,school board,3,3,False,611,1330,1006,603,ok,sum.json,1.646,0.4512
+2019C,2019,Archuleta,Bayfield School District 10 Jt-R School Board Director - 4 year term,school board,3,4,True,10,25,22,9,ok,sum.json,2.2,0.2667
+2019C,2019,Archuleta,Ignacio School District 11-JT School Board Director,school board,3,5,True,183,441,350,0,?,sum.json,1.913,0.3625
+2019C,2019,Baca,Pritchett School District RE-3 School Board Director - District 3 - Four Year Term,school board,3,3,False,116,209,266,101,ok,sum.json,2.293,0.2356
+2019C,2019,Bent,City of Las Animas Light & Power Board,special district,3,2,False,717,1630,888,712,ok,sum.json,1.238,0.5872
+2019C,2019,Boulder,City of Boulder Council Candidates,municipal council,6,15,True,34971,0,168930,34317,ok,sum.json,4.831,0.1949
+2019C,2019,Boulder,City of Lafayette Council Candidates,municipal council,5,13,True,10095,0,37036,9069,ok,sum.json,3.669,0.2663
+2019C,2019,Chaffee,Buena Vista School District R-31 Director - At Large - Four Year Term,school board,2,2,False,3599,7032,3811,2883,<=,sum.json,1.059,0.4705
+2019C,2019,Cheyenne,Cheyenne County School District Re-5 Board Director - 4 year term,school board,2,2,False,591,1007,730,582,ok,sum.json,1.235,0.3824
+2019C,2019,Clear_Creek,City of Idaho Springs City Council - Ward I,municipal council,2,3,True,784,0,463,0,<=,sum.json,0.591,0.7047
+2019C,2019,Clear_Creek,City of Idaho Springs City Council - Ward II,municipal council,2,2,False,592,0,209,0,?,sum.json,0.353,0.8235
+2019C,2019,Douglas,City of Aurora Council Member - At Large,municipal council,2,6,True,901,1569,1328,846,ok,sum.json,1.474,0.263
+2019C,2019,Douglas,City of Littleton Council Member - At Large,municipal council,2,5,True,97,520,133,74,<=,sum.json,1.371,0.3144
+2019C,2019,Eagle,West Grand School District 1-Jt Board of Education Candidates,school board,3,5,True,7,17,9,0,?,sum.json,1.286,0.5714
+2019C,2019,Eagle,Town of Eagle - Charter Commission,charter commission,9,6,False,2102,4942,3884,1838,ok,sum.json,1.848,0.7947
+2019C,2019,El_Paso,City of Fountain Council Member - At Large,municipal council,2,4,True,5884,0,6002,4455,<=,sum.json,1.02,0.49
+2019C,2019,El_Paso,City of Manitou Springs City Council - At Large,municipal council,3,3,False,2090,0,3240,2069,ok,sum.json,1.55,0.4833
+2019C,2019,El_Paso,Academy School District 20 Director,school board,2,3,True,38053,0,42142,0,?,sum.json,1.107,0.4463
+2019C,2019,El_Paso,Calhan School District RJ1 Board of Education Director - Two Year Term,school board,2,3,True,1007,0,1284,986,ok,sum.json,1.275,0.3625
+2019C,2019,El_Paso,Calhan School District RJ1 Board of Education Director - Four Year Term,school board,2,2,False,1007,0,1075,986,ok,sum.json,1.068,0.4662
+2019C,2019,El_Paso,Colorado Springs School District 11 Director,school board,4,8,True,63424,0,129286,0,?,sum.json,2.038,0.4904
+2019C,2019,El_Paso,Ellicott School District 22 Director,school board,3,5,True,2822,0,1881,0,<=,sum.json,0.667,0.7778
+2019C,2019,El_Paso,Hanover School District 28 Director,school board,3,5,True,650,0,745,0,<=,sum.json,1.146,0.6179
+2019C,2019,El_Paso,Peyton School District 23JT Director,school board,2,6,True,2536,0,1754,0,<=,sum.json,0.692,0.6542
+2019C,2019,El_Paso,Widefield School District 3 Director,school board,2,4,True,11228,0,11866,0,?,sum.json,1.057,0.4716
+2019C,2019,Elbert,Calhan School District RJ1 Board of Education Director - Two Year Term,school board,2,3,True,613,0,69,66,<=,sum.json,0.113,0.9437
+2019C,2019,Elbert,Calhan School District RJ1 Board of Education Director - Four Year Term,school board,2,2,False,613,0,67,66,<=,sum.json,0.109,0.9454
+2019C,2019,Elbert,Elizabeth School District School Board Director,school board,2,3,True,6680,0,9646,0,?,sum.json,1.444,0.278
+2019C,2019,Elbert,Peyton School District 23JT Director,school board,2,6,True,609,0,50,0,<=,sum.json,0.082,0.9589
+2019C,2019,Fremont,City of Canon City Council Member - At-Large,municipal council,2,5,True,5204,11246,7578,4720,ok,sum.json,1.456,0.2719
+2019C,2019,Fremont,City of Florence Council Member - Ward One,municipal council,2,3,True,349,846,469,0,?,sum.json,1.344,0.3281
+2019C,2019,Fremont,School District Fremont RE-1 Directors - At Large,school board,3,5,True,8970,19387,17400,0,?,sum.json,1.94,0.3534
+2019C,2019,Garfield,Garfield County School District No. 16 School Board Directors,school board,2,3,True,1436,4393,1747,1346,ok,sum.json,1.217,0.3917
+2019C,2019,Gilpin,Gilpin County School District RE-1 Board Member,school board,3,4,True,1184,0,2453,0,?,sum.json,2.072,0.3094
+2019C,2019,Grand,West Grand School District 1-Jt Board of Education Candidates,school board,3,5,True,993,2205,2258,0,?,sum.json,2.274,0.242
+2019C,2019,Gunnison,Town of Crested Butte Town Council,municipal council,5,6,True,748,1512,2800,732,ok,sum.json,3.743,0.2513
+2019C,2019,Gunnison,City of Gunnison City Council,municipal council,3,5,True,1687,4399,3469,0,?,sum.json,2.056,0.3146
+2019C,2019,Jefferson,City of Edgewater Council Member,municipal council,4,5,True,1252,0,3480,1208,ok,sum.json,2.78,0.3051
+2019C,2019,Jefferson,City of Littleton Council Member - At Large,municipal council,2,5,True,873,0,1290,712,<=,sum.json,1.478,0.2612
+2019C,2019,Jefferson,City of Westminster Councillor,municipal council,3,8,True,13433,0,30416,0,?,sum.json,2.264,0.2452
+2019C,2019,Jefferson,Town of Mountain View Council,municipal council,3,5,True,532,0,435,174,<=,sum.json,0.818,0.7274
+2019C,2019,Kiowa,Kiowa County School District RE-1 Director - 4 Year Term,school board,2,4,True,129,208,204,0,?,sum.json,1.581,0.2093
+2019C,2019,Kit_Carson,Arriba-Flagler Consolidated School District #20 Director,school board,3,4,True,368,606,980,0,?,sum.json,2.663,0.1123
+2019C,2019,Kit_Carson,Bethune School District R-5 Directors - 2 Year Term,school board,2,3,True,229,331,330,227,ok,sum.json,1.441,0.2795
+2019C,2019,Kit_Carson,Bethune School District R-5 Directors - 4 Year Term,school board,2,2,False,229,331,289,227,ok,sum.json,1.262,0.369
+2019C,2019,Kit_Carson,Burlington School District RE-6J Directors,school board,4,4,False,1322,2683,3041,1304,ok,sum.json,2.3,0.4249
+2019C,2019,La_Plata,Bayfield School District 10 Jt-R School Board Director - 4 year term,school board,3,4,True,3304,7584,6269,3255,ok,sum.json,1.897,0.3675
+2019C,2019,La_Plata,Ignacio School District 11-JT School Board Director,school board,3,5,True,1285,3395,2777,0,?,sum.json,2.161,0.2796
+2019C,2019,Lake,Lake County School District R-1 Director,school board,3,3,False,2017,0,3035,1965,ok,sum.json,1.505,0.4984
+2019C,2019,Las_Animas,City of Trinidad Council Member - At Large,municipal council,3,5,True,2481,5904,6102,2407,ok,sum.json,2.459,0.1802
+2019C,2019,Las_Animas,Primero School District RE-2 Director - At Large,school board,3,5,True,507,1042,1203,0,?,sum.json,2.373,0.2091
+2019C,2019,Las_Animas,Trinidad School District Number 1 Director - At Large,school board,3,4,True,3161,7350,6591,3096,ok,sum.json,2.085,0.305
+2019C,2019,Lincoln,Arriba-Flagler Consolidated School District #20 Director,school board,3,4,True,141,274,358,0,?,sum.json,2.539,0.1537
+2019C,2019,Logan,Peetz Plateau School District RE-5 School Director,school board,3,4,True,250,413,635,0,?,sum.json,2.54,0.1533
+2019C,2019,Mineral,Creede School District School Board Director - Four Year Term,school board,2,3,True,542,870,943,531,ok,sum.json,1.74,0.1301
+2019C,2019,Mineral,Creede School District School Board Director - Two Year Term,school board,2,3,True,542,870,907,531,ok,sum.json,1.673,0.1633
+2019C,2019,Montezuma,Dolores School District RE-4A Board of Directors,school board,3,6,True,1567,3266,3682,0,?,sum.json,2.35,0.2168
+2019C,2019,Montezuma,Mancos School District RE-6 Board of Directors,school board,3,8,True,1351,2815,3238,0,?,sum.json,2.397,0.2011
+2019C,2019,Montrose,Norwood School District R-2J School Board Director,school board,3,4,True,198,358,444,0,?,sum.json,2.242,0.2525
+2019C,2019,Montrose,West End School District RE-2 Board of Education Director - Four Year Term,school board,2,2,False,631,1333,806,560,ok,sum.json,1.277,0.3613
+2019C,2019,Morgan,Morgan County School District RE-3 Board of Education,school board,4,6,True,4426,9391,11820,0,?,sum.json,2.671,0.3324
+2019C,2019,Morgan,Weldon Valley School District RE-20J School Director,school board,2,4,True,348,708,554,0,?,sum.json,1.592,0.204
+2019C,2019,Otero,Cheraw School District 31 School Board Member - At Large,school board,3,5,True,315,519,837,0,?,sum.json,2.657,0.1143
+2019C,2019,Ouray,City of Ouray Council Member,municipal council,2,5,True,503,870,872,489,ok,sum.json,1.734,0.1332
+2019C,2019,Ouray,Ouray School District R-1 School Board Director - Four Year Term,school board,2,3,True,809,1555,1151,544,<=,sum.json,1.423,0.2886
+2019C,2019,Ouray,Ridgway School District R-2 School Board Director - Four Year Term,school board,2,3,True,1479,2614,2191,986,<=,sum.json,1.481,0.2593
+2019C,2019,Park,Platte Canyon School District RE-1  School Board Director,school board,2,3,True,3539,8181,4611,0,?,sum.json,1.303,0.3485
+2019C,2019,Phillips,Holyoke School District RE-1J Director,school board,4,4,False,1017,2136,2873,994,ok,sum.json,2.825,0.2938
+2019C,2019,Pitkin,Aspen School District School Board Director,school board,2,6,True,4022,11063,5969,0,?,sum.json,1.484,0.258
+2019C,2019,Prowers,Holly School District RE-3 Director,school board,2,3,True,438,900,770,0,?,sum.json,1.758,0.121
+2019C,2019,Pueblo,City of Pueblo Member Board of Water Works (Six Year Term),special district,2,4,True,26053,71319,37294,24163,ok,sum.json,1.431,0.2843
+2019C,2019,Pueblo,Pueblo School District 60 Board Member-At Large,school board,3,6,True,26650,72661,54205,26125,ok,sum.json,2.034,0.322
+2019C,2019,Rio_Blanco,Rangely School District RE-4 Director - At Large,school board,2,4,True,1075,1722,1703,1073,ok,sum.json,1.584,0.2079
+2019C,2019,Rio_Grande,Upper Rio Grande School District C-7 School Board Director,school board,3,6,True,1549,3114,3719,0,?,sum.json,2.401,0.1997
+2019C,2019,Routt,Steamboat Springs School District RE2 Director - At Large - Four Year Term,school board,3,5,True,7256,15199,12649,7161,ok,sum.json,1.743,0.4189
+2019C,2019,San_Miguel,Town of Telluride Town Council,municipal council,2,3,True,2666,6276,1588,2589,na,summary.zip,,
+2019C,2019,San_Miguel,Norwood School District R-2J School Board Director,school board,3,4,True,2666,6276,901,2589,na,summary.zip,,
+2019C,2019,San_Miguel,Telluride School District R-1 Director,school board,3,5,True,2666,6276,4321,2589,ok,summary.zip,1.621,0.4597
+2019C,2019,Sedgwick,Holyoke School District RE-1J Director,school board,4,4,False,5,9,8,4,<=,sum.json,1.6,0.6
+2019C,2019,Sedgwick,Julesburg School District Re-1 Director,school board,3,4,True,658,1153,1643,0,?,sum.json,2.497,0.1677
+2019C,2019,Summit,West Grand School District 1-Jt Board of Education Candidates,school board,3,5,True,47,125,82,0,?,sum.json,1.745,0.4184
+2019C,2019,Summit,Summit School District RE-1 School Director - At Large,school board,4,10,True,8816,23789,18817,8508,ok,sum.json,2.134,0.4664
+2019C,2019,Teller,Cripple Creek-Victor School District RE-1 School Board - At Large,school board,2,4,True,1735,3802,1895,1502,ok,sum.json,1.092,0.4539
+2019C,2019,Washington,Woodlin School District R-104 School Board Director - At Large,school board,2,3,True,147,264,254,0,?,sum.json,1.728,0.1361
+2019C,2019,Weld,City of Dacono Council Members,municipal council,2,2,False,1020,0,977,0,?,sum.json,0.958,0.5211
+2019C,2019,Weld,City of Greeley Councilmember -  At-Large,municipal council,2,7,True,21914,0,35323,20595,ok,sum.json,1.612,0.1941
+2019C,2019,Weld,Pawnee School District RE-12 Board of Directors,school board,2,3,True,227,0,379,0,?,sum.json,1.67,0.1652
+2019C,2019,Weld,Weld County School District 6 Director - 4 Year Term,school board,3,5,True,25278,0,50392,24557,ok,sum.json,1.994,0.3355
+2019C,2019,Yuma,City of Wray City Council,municipal council,4,6,True,706,1238,2638,0,?,sum.json,3.737,0.0659
+2019C,2019,Yuma,Holyoke School District RE-1J Director,school board,4,4,False,30,44,70,28,ok,sum.json,2.333,0.4167
+2019C,2019,Yuma,Wray School District RD-2 Director - 2 year,school board,2,2,False,1415,2433,2449,0,?,sum.json,1.731,0.1346
+2019C,2019,Yuma,Wray School District RD-2 Director - 4 year,school board,3,4,True,1415,2433,3890,0,?,sum.json,2.749,0.0836
+2019C,2019,Yuma,Yuma School District 1 Director,school board,2,2,False,1626,2762,2469,1603,ok,sum.json,1.518,0.2408
+2020G,2020,Boulder,Town of Superior Trustee,municipal council,3,6,True,8284,0,17402,0,?,sum.json,2.101,0.2998
+2020G,2020,Douglas,Town of Parker Councilmember,municipal council,3,12,True,41752,46780,78365,30715,ok,summary.zip,1.877,0.3744
+2020G,2020,Eagle,Town of Avon Town Council,municipal council,3,6,True,3104,3752,4764,2169,ok,summary.zip,1.535,0.4884
+2020G,2020,Elbert,Kiowa Trustee,municipal council,3,5,True,3038,3373,867,406,<=,summary.zip,0.285,0.9049
+2020G,2020,Fremont,Town of Williamsburg Trustee,municipal council,3,6,True,1476,1844,1039,383,<=,summary.zip,0.704,0.7654
+2020G,2020,Gilpin,City of Central Alderman,municipal council,2,3,True,606,906,688,411,ok,summary.zip,1.135,0.4323
+2020G,2020,Grand,Town of Granby Board of Trustees,municipal council,3,5,True,2610,3347,2565,897,<=,summary.zip,0.983,0.6724
+2020G,2020,Mesa,Directors of Redlands 360 Metropolitan District No. 1 (2 Year),special district,2,2,False,5,0,10,5,ok,summary.zip,2.0,0.0
+2020G,2020,Mesa,Directors of Redlands 360 Metropolitan District No. 1 (3 Year),special district,3,3,False,5,0,15,5,ok,summary.zip,3.0,0.0
+2020G,2020,Mesa,Directors of Redlands 360 Metropolitan District No. 9 (2 Year),special district,2,2,False,5,0,10,5,ok,summary.zip,2.0,0.0
+2020G,2020,Mesa,Directors of Redlands 360 Metropolitan District No. 9 (3 Year),special district,3,3,False,5,0,15,5,ok,summary.zip,3.0,0.0
+2020G,2020,Phillips,City of Holyoke Council Member,municipal council,3,6,True,1443,1987,2674,1021,ok,summary.zip,1.853,0.3823
+2020G,2020,Pitkin,Town of Snowmass Village Town Council,municipal council,2,5,True,4666,5369,2999,1785,<=,summary.zip,0.643,0.6786
+2020G,2020,Routt,Town of Hayden Councilmember,municipal council,3,7,True,1748,2159,2439,1064,ok,summary.zip,1.395,0.5349
+2020G,2020,Weld,Town of Hudson Town Council,municipal council,3,6,True,1796,2377,1743,0,<=,summary.zip,0.97,0.6765
+2020G,2020,Weld,City of Dacono Council Members,municipal council,2,4,True,3797,4953,3946,0,?,summary.zip,1.039,0.4804
+2020G,2020,Weld,Town of Gilcrest Trustee,municipal council,3,7,True,1320,1697,873,345,<=,summary.zip,0.661,0.7795
+2020G,2020,Weld,Town of Lochbuie Trustee,municipal council,4,4,False,3383,4600,4384,2643,ok,summary.zip,1.296,0.676
+2020G,2020,Weld,Town of Severance Charter Commissioner,charter commission,5,5,False,8129,9396,12811,4336,ok,summary.zip,1.576,0.6848
+2021C,2021,Adams,City of Aurora Council Member - At-Large,municipal council,2,6,True,4835,22419,8198,0,?,summary.zip,1.696,0.1522
+2021C,2021,Adams,City of Commerce City Councilmember - At-Large,municipal council,2,8,True,9801,36226,13953,0,?,summary.zip,1.424,0.2882
+2021C,2021,Adams,City of Westminster Council Members,municipal council,4,9,True,16343,48992,54924,15817,ok,summary.zip,3.361,0.1598
+2021C,2021,Adams,Adams-Arapahoe School District 28J Board of Directors - At-Large,school board,4,6,True,4516,21255,12346,0,?,summary.zip,2.734,0.3165
+2021C,2021,Adams,Bennett School District 29J School Director - At-Large - 4 Year Term,school board,2,3,True,1036,3082,1503,733,ok,summary.zip,1.451,0.2746
+2021C,2021,Adams,Strasburg School District 31J School Board Director,school board,2,4,True,1246,3241,1945,0,?,summary.zip,1.561,0.2195
+2021C,2021,Adams,Wiggins School District RE-50J School Director,school board,2,3,True,8,26,0,0,<=,summary.zip,0.0,1.0
+2021C,2021,Alamosa,Sangre de Cristo School District RE-22J Director - At-Large,school board,2,3,True,337,782,484,0,?,summary.zip,1.436,0.2819
+2021C,2021,Alamosa,Sargent School District RE-33J Director - Four Year Term,school board,3,3,False,57,108,111,56,ok,summary.zip,1.947,0.3509
+2021C,2021,Arapahoe,City of Aurora Council Member - At-Large,municipal council,2,6,True,66850,200949,115372,0,?,summary.zip,1.726,0.1371
+2021C,2021,Arapahoe,City of Greenwood Village Councilmember - District 1,municipal council,2,4,True,1941,3323,3583,0,?,summary.zip,1.846,0.077
+2021C,2021,Arapahoe,City of Greenwood Village Councilmember - District 2,municipal council,2,3,True,1202,3229,1863,0,?,summary.zip,1.55,0.225
+2021C,2021,Arapahoe,City of Greenwood Village Councilmember - District 3,municipal council,2,4,True,1471,2876,2746,0,?,summary.zip,1.867,0.0666
+2021C,2021,Arapahoe,City of Greenwood Village Councilmember - District 4,municipal council,2,4,True,1442,2851,2542,0,?,summary.zip,1.763,0.1186
+2021C,2021,Arapahoe,Adams-Arapahoe School District 28J Board of Directors - At-Large,school board,4,6,True,30542,102400,84490,0,?,summary.zip,2.766,0.3084
+2021C,2021,Arapahoe,Arapahoe County School District #6 Littleton Public Schools School Director - At-Large,school board,3,5,True,34451,75883,74864,0,?,summary.zip,2.173,0.2756
+2021C,2021,Arapahoe,Bennett School District 29J School Director - At-Large - 4 Year Term,school board,2,3,True,981,2350,1215,575,ok,summary.zip,1.239,0.3807
+2021C,2021,Arapahoe,Englewood School District School Board Director - 4 Year Term,school board,3,4,True,6890,19554,13461,4465,ok,summary.zip,1.954,0.3488
+2021C,2021,Arapahoe,Strasburg School District 31J School Board Director,school board,2,4,True,521,1441,816,0,?,summary.zip,1.566,0.2169
+2021C,2021,Archuleta,Bayfield School District 10 Jt-R Director,school board,2,4,True,11,12166,20,0,?,sum.json,1.818,0.0909
+2021C,2021,Archuleta,Ignacio School District 11-JT Director - 4 Year Term,school board,2,3,True,205,12166,279,141,<=,sum.json,1.361,0.3195
+2021C,2021,Baca,Springfield School District RE-4 Director,school board,2,3,True,636,2711,1119,0,?,sum.json,1.759,0.1203
+2021C,2021,Bent,City of Las Animas City Council - Ward 2 - Precinct 9,municipal council,2,3,True,170,438,256,0,?,summary.zip,1.506,0.2471
+2021C,2021,Bent,Wiley School District RE-13 JT Director,school board,4,9,True,67,104,233,0,?,summary.zip,3.478,0.1306
+2021C,2021,Boulder,City of Boulder Council Candidates,municipal council,5,10,True,33772,0,135257,33052,ok,sum.json,4.005,0.199
+2021C,2021,Boulder,City of Lafayette City Council Candidates,municipal council,4,5,True,10190,0,26494,9970,ok,sum.json,2.6,0.35
+2021C,2021,Boulder,City of Longmont City Council Member - At-Large,municipal council,2,6,True,28845,0,47558,27722,ok,sum.json,1.649,0.1756
+2021C,2021,Boulder,Estes Park School District R-3 School Board Director - At-Large,school board,3,6,True,335,0,496,0,?,sum.json,1.481,0.5065
+2021C,2021,Custer,Fremont School District RE-2 Director - At-Large,school board,2,4,True,141,4536,169,0,?,sum.json,1.199,0.4007
+2021C,2021,Dolores,Town of Rico Board of Trustees,municipal council,2,2,False,107,1770,137,106,ok,sum.json,1.28,0.3598
+2021C,2021,Douglas,City of Aurora Council Member - At-Large,municipal council,2,6,True,1453,0,2374,0,?,sum.json,1.634,0.1831
+2021C,2021,Eagle,Town of Eagle Councilmember - Two-Year Term,municipal council,3,7,True,2769,4951,6096,2205,ok,summary.zip,2.202,0.2662
+2021C,2021,Eagle,Town of Vail Council Members - At-Large,municipal council,4,10,True,1839,4044,6060,1810,ok,summary.zip,3.295,0.1762
+2021C,2021,El_Paso,Town of Monument Home Rule Charter Commission,charter commission,9,9,False,5494,511294,10729,3313,<=,sum.json,1.953,0.783
+2021C,2021,El_Paso,Academy School District 20 Director,school board,3,10,True,39716,511294,94300,0,?,sum.json,2.374,0.2085
+2021C,2021,El_Paso,Big Sandy School District 100J Director,school board,2,3,True,168,511294,219,53,<=,sum.json,1.304,0.3482
+2021C,2021,El_Paso,Cheyenne Mountain School District 12 Director,school board,2,6,True,11824,511294,15141,0,?,sum.json,1.281,0.3597
+2021C,2021,El_Paso,Colorado Springs School District 11 Director - 4 Year Term,school board,3,7,True,57818,511294,118815,54940,ok,sum.json,2.055,0.315
+2021C,2021,El_Paso,El Paso County School District No. 2 Director - District 1,school board,3,5,True,9146,511294,13076,7840,ok,sum.json,1.43,0.5234
+2021C,2021,El_Paso,Ellicott School District 22 Director,school board,2,2,False,2508,511294,1324,0,?,sum.json,0.528,0.736
+2021C,2021,El_Paso,Fountain-Fort Carson School District 8 Director - 4 Year Term,school board,2,3,True,5220,511294,4360,2743,<=,sum.json,0.835,0.5824
+2021C,2021,El_Paso,Fremont School District RE-2 Director - At-Large,school board,2,4,True,755,511294,113,0,<=,sum.json,0.15,0.9252
+2021C,2021,El_Paso,Hanover School District 28 Director,school board,2,4,True,550,511294,458,0,?,sum.json,0.833,0.5836
+2021C,2021,El_Paso,Peyton School District 23JT Director,school board,3,3,False,2402,511294,1892,1399,<=,sum.json,0.788,0.7374
+2021C,2021,El_Paso,Manitou Springs School District 14 Director,school board,2,2,False,4045,511294,3616,3367,<=,sum.json,0.894,0.553
+2021C,2021,El_Paso,Widefield School District 3 Director,school board,3,6,True,10632,511294,16072,0,?,sum.json,1.512,0.4961
+2021C,2021,Elbert,Big Sandy School District 100J Director,school board,2,3,True,362,922,609,0,?,summary.zip,1.682,0.1588
+2021C,2021,Elbert,Elizabeth School District C-1 Director,school board,3,4,True,6239,13934,13768,0,?,summary.zip,2.207,0.2644
+2021C,2021,Elbert,Peyton School District 23JT Director,school board,3,3,False,40,92,61,40,ok,summary.zip,1.525,0.4917
+2021C,2021,Elbert,Kiowa School District C-2 Director - 4 Year Term,school board,2,3,True,1148,2382,1603,914,ok,summary.zip,1.396,0.3018
+2021C,2021,Elbert,Limon School District RE-4J Director - 4 Year Term,school board,3,5,True,63,127,163,58,ok,summary.zip,2.587,0.1376
+2021C,2021,Fremont,School District Fremont RE-1 Directors - At-Large,school board,2,4,True,9798,32633,15989,0,?,sum.json,1.632,0.1841
+2021C,2021,Fremont,Fremont School District RE-2 Director - At-Large,school board,2,4,True,3754,32633,5020,0,?,sum.json,1.337,0.3314
+2021C,2021,Garfield,City of Rifle City Council,municipal council,5,8,True,1716,5231,5781,0,?,sum.json,3.369,0.3262
+2021C,2021,Garfield,Garfield County School District 16 Director,school board,3,6,True,1353,4296,3137,0,?,sum.json,2.319,0.2271
+2021C,2021,Gilpin,Gilpin County School District RE-1 Director - At-Large,school board,2,3,True,1135,5757,1549,0,?,sum.json,1.365,0.3176
+2021C,2021,Grand,West Grand School District 1-Jt Board of Education Candidates,school board,5,9,True,1002,2402,3951,987,ok,summary.zip,3.943,0.2114
+2021C,2021,Gunnison,Town of Crested Butte Town Council,municipal council,4,6,True,815,14139,2668,797,ok,sum.json,3.274,0.1816
+2021C,2021,Gunnison,City of Gunnison City Council,municipal council,3,3,False,1540,14139,2469,1523,ok,sum.json,1.603,0.4656
+2021C,2021,Hinsdale,Hinsdale School District RE-1 Director,school board,3,4,True,439,707,905,422,ok,summary.zip,2.062,0.3128
+2021C,2021,Huerfano,Huerfano School District Re-1 School Board Director - 2 Year Term,school board,2,3,True,1928,4445,2879,0,?,summary.zip,1.493,0.2534
+2021C,2021,Huerfano,Huerfano School District Re-1 School Board Director - 4 Year Term,school board,3,5,True,1928,4445,4513,0,?,summary.zip,2.341,0.2197
+2021C,2021,Huerfano,La Veta School District RE-2 School Board Director - 4 Year Term,school board,3,11,True,755,1331,2037,729,ok,summary.zip,2.698,0.1007
+2021C,2021,Jefferson,City of Edgewater Council Members,municipal council,3,4,True,1108,3210,2354,884,ok,summary.zip,2.125,0.2918
+2021C,2021,Jefferson,City of Westminster Council Members,municipal council,4,9,True,12108,32498,40282,11782,ok,summary.zip,3.327,0.1683
+2021C,2021,Jefferson,Town of Mountain View Council Members,municipal council,3,3,False,233,416,386,228,ok,summary.zip,1.657,0.4478
+2021C,2021,Jefferson,City of Lakewood Council Members - Ward 5,municipal council,2,4,True,9042,22691,13990,0,?,summary.zip,1.547,0.2264
+2021C,2021,Kit_Carson,Arriba-Flagler Consolidated School District #20 Director,school board,3,5,True,342,4652,924,0,?,sum.json,2.702,0.0994
+2021C,2021,Kit_Carson,Idalia School District RJ-3 Director,school board,3,5,True,2058,4652,0,2045,na,summary.zip,,
+2021C,2021,Kit_Carson,Stratton School District R-4 Director,school board,2,3,True,382,4652,686,0,?,sum.json,1.796,0.1021
+2021C,2021,La_Plata,Bayfield School District 10 Jt-R Director,school board,2,4,True,2967,47758,4661,0,?,sum.json,1.571,0.2145
+2021C,2021,La_Plata,Ignacio School District 11-JT Director - 4 Year Term,school board,2,3,True,1181,47758,1782,832,<=,sum.json,1.509,0.2456
+2021C,2021,Lake,City of Leadville City Council - Ward 2,municipal council,2,2,False,237,5741,296,0,?,sum.json,1.249,0.3755
+2021C,2021,Lake,Lake County School District R-1 Director,school board,2,3,True,1945,5741,2742,1912,ok,sum.json,1.41,0.2951
+2021C,2021,Lake,Pan-Ark Estates Metropolitan District Directors (Until 2022),special district,2,2,False,329,5741,382,324,ok,sum.json,1.161,0.4195
+2021C,2021,Lake,Pan-Ark Estates Metropolitan District Directors (Until 2023),special district,3,3,False,329,5741,543,324,ok,sum.json,1.65,0.4498
+2021C,2021,Larimer,Estes Park School District R-3 School Board Director - At-Large,school board,3,6,True,4873,275568,11779,0,?,sum.json,2.417,0.1943
+2021C,2021,Las_Animas,City of Trinidad Council Member - At-Large,municipal council,3,3,False,2235,6419,4189,2152,ok,summary.zip,1.874,0.3752
+2021C,2021,Lincoln,Arriba-Flagler Consolidated School District #20 Director,school board,3,5,True,133,267,341,0,?,summary.zip,2.564,0.1454
+2021C,2021,Lincoln,Limon School District RE-4J Director - 4 Year Term,school board,3,5,True,742,1654,1848,701,ok,summary.zip,2.491,0.1698
+2021C,2021,Logan,Haxtun School District RE-2J Board of Education Director,school board,3,6,True,25,49,61,0,?,summary.zip,2.44,0.1867
+2021C,2021,Logan,Plateau RE-5 School District Board of Directors,school board,2,5,True,264,409,502,262,ok,summary.zip,1.902,0.0492
+2021C,2021,Mineral,Creede School District Board Director,school board,3,5,True,597,873,1524,589,ok,summary.zip,2.553,0.1491
+2021C,2021,Moffat,City of Craig City Council,municipal council,4,8,True,2361,15433,7072,1597,<=,sum.json,2.995,0.2512
+2021C,2021,Moffat,Moffat County School District RE-1 School Board Director - At-Large,school board,2,2,False,3834,15433,4553,3771,ok,sum.json,1.188,0.4062
+2021C,2021,Moffat,Moffat County Health Service District Director - 2 Year Term,special district,2,2,False,3834,15433,4288,3771,ok,sum.json,1.118,0.4408
+2021C,2021,Moffat,Moffat County Health Service District Director - 4 Year Term,special district,3,3,False,3834,15433,5790,3771,ok,sum.json,1.51,0.4966
+2021C,2021,Montezuma,Dolores School District RE-4A Board of Directors,school board,2,4,True,1642,3580,2789,0,?,summary.zip,1.699,0.1507
+2021C,2021,Montrose,West End Public School District RE-2 Board of Education Director,school board,3,3,False,695,1322,1239,692,ok,summary.zip,1.783,0.4058
+2021C,2021,Morgan,Brush School District RE-2J School Director,school board,4,5,True,2022,5149,6002,0,?,summary.zip,2.968,0.2579
+2021C,2021,Morgan,Morgan County School District RE-3 School Director,school board,3,6,True,3896,9958,9152,3795,ok,summary.zip,2.349,0.217
+2021C,2021,Morgan,Wiggins School District RE-50J School Director,school board,2,3,True,1149,2368,1728,1139,ok,summary.zip,1.504,0.248
+2021C,2021,Otero,City of La Junta City Council - Ward 2,municipal council,2,2,False,694,13164,905,0,?,sum.json,1.304,0.348
+2021C,2021,Otero,Cheraw School District 31 School Board Member - At-Large,school board,2,4,True,292,13164,519,0,?,sum.json,1.777,0.1113
+2021C,2021,Otero,Rocky Ford School District R-2 Director - 4 Year Term,school board,3,3,False,1721,13164,3390,1710,ok,sum.json,1.97,0.3434
+2021C,2021,Ouray,City of Ouray Council Member,municipal council,2,6,True,555,921,998,549,ok,summary.zip,1.798,0.1009
+2021C,2021,Ouray,Ridgway School District R-2 School Board Director,school board,3,6,True,1577,2806,3035,1566,ok,summary.zip,1.925,0.3585
+2021C,2021,Park,Park County School District RE-2 School Board Director - 2 Year Term,school board,3,3,False,2931,16062,4451,2908,ok,sum.json,1.519,0.4938
+2021C,2021,Park,Park County School District RE-2 School Board Director - 4 Year Term,school board,2,2,False,2931,16062,3089,2908,ok,sum.json,1.054,0.473
+2021C,2021,Park,Platte Canyon School District #1 School Board Director,school board,3,6,True,3745,16062,7446,3693,ok,sum.json,1.988,0.3372
+2021C,2021,Phillips,Haxtun School District RE-2J Board of Education Director,school board,3,6,True,620,1028,1682,0,?,summary.zip,2.713,0.0957
+2021C,2021,Pitkin,Aspen School District No. 1 (RE) Board of Education School Directors,school board,3,6,True,4278,13950,10474,0,?,summary.zip,2.448,0.1839
+2021C,2021,Prowers,City of Lamar Councilman - Ward 3,municipal council,2,3,True,587,1510,817,0,?,summary.zip,1.392,0.3041
+2021C,2021,Prowers,Holly School District RE-3 Director,school board,3,8,True,426,903,1194,0,?,summary.zip,2.803,0.0657
+2021C,2021,Prowers,Wiley School District RE-13 JT Director,school board,4,9,True,335,610,1220,0,?,summary.zip,3.642,0.0896
+2021C,2021,Pueblo,City of Pueblo Council Member - At-Large,municipal council,2,3,True,22180,114936,31105,21756,ok,sum.json,1.402,0.2988
+2021C,2021,Pueblo,City of Pueblo Board of Water Works Member,special district,2,2,False,22180,114936,28870,21756,ok,sum.json,1.302,0.3492
+2021C,2021,Pueblo,Pueblo School District No. 60 Board Member - At-Large,school board,2,4,True,22652,114936,33378,0,?,sum.json,1.474,0.2632
+2021C,2021,Rio_Blanco,Meeker School District Re 1 Director - At-Large,school board,4,12,True,1406,2931,4687,0,?,summary.zip,3.334,0.1666
+2021C,2021,Rio_Blanco,Rangely School District RE-4 Director - At-Large,school board,3,8,True,807,1814,2092,785,ok,summary.zip,2.592,0.1359
+2021C,2021,Rio_Blanco,Rangely Junior College District Director,special district,3,4,True,807,1814,1274,785,ok,summary.zip,1.579,0.4738
+2021C,2021,Rio_Grande,Monte Vista School District C-8 Board of Education Director - Four Year Term,school board,2,4,True,1536,8596,2460,1088,<=,sum.json,1.602,0.1992
+2021C,2021,Rio_Grande,Sargent School District RE-33J Director - Four Year Term,school board,3,3,False,344,8596,780,329,ok,sum.json,2.267,0.2442
+2021C,2021,Rio_Grande,Upper Rio Grande School District C-7 Director - Four Year Term,school board,2,6,True,1404,8596,2240,0,?,sum.json,1.595,0.2023
+2021C,2021,Routt,Hayden School District RE-1 Director - At-Large,school board,3,7,True,915,21160,2414,0,?,sum.json,2.638,0.1206
+2021C,2021,Routt,Steamboat Springs School District Re-2 Director - At-Large,school board,2,4,True,7627,21160,11530,0,?,sum.json,1.512,0.2441
+2021C,2021,Saguache,Mountain Valley School District RE-1 Board of Education Member,school board,2,7,True,604,4440,963,0,?,sum.json,1.594,0.2028
+2021C,2021,Saguache,Sangre de Cristo School District RE-22J Director - At-Large,school board,2,3,True,47,4440,72,0,?,sum.json,1.532,0.234
+2021C,2021,San_Juan,Silverton School District No. 1 School Board Director - Four Year Term,school board,3,5,True,384,719,1021,365,ok,summary.zip,2.659,0.1137
+2021C,2021,San_Juan,Silverton School District No. 1 School Board Director - Two Year Term,school board,2,5,True,384,719,685,365,ok,summary.zip,1.784,0.1081
+2021C,2021,San_Miguel,Town of Telluride Town Council,municipal council,4,6,True,1231,0,3372,1219,ok,summary.zip,2.739,0.3152
+2021C,2021,Sedgwick,Haxtun School District RE-2J Board of Education Director,school board,3,6,True,4,1714,8,0,?,sum.json,2.0,0.3333
+2021C,2021,Sedgwick,Julesburg School District Re-1 Director,school board,3,4,True,603,1714,1434,0,?,sum.json,2.378,0.2073
+2021C,2021,Summit,Summit School District RE-1 Director - Four Year Term,school board,3,7,True,9162,24738,22358,7909,ok,sum.json,2.44,0.1866
+2021C,2021,Summit,West Grand School District 1-Jt Board of Education Candidates,school board,5,9,True,54,24738,147,50,ok,sum.json,2.722,0.4556
+2021C,2021,Teller,Cripple Creek-Victor School District RE-1 Director - At-Large,school board,3,5,True,1739,22866,3315,0,?,sum.json,1.906,0.3646
+2021C,2021,Washington,Brush School District RE-2J School Director,school board,4,5,True,42,97,126,0,?,summary.zip,3.0,0.25
+2021C,2021,Weld,City of Dacono Council Members,municipal council,2,3,True,1089,220638,1508,1034,ok,sum.json,1.385,0.3076
+2021C,2021,Weld,City of Fort Lupton Councilmember - Ward III,municipal council,2,3,True,518,220638,690,0,?,sum.json,1.332,0.334
+2021C,2021,Weld,City of Longmont City Council Member - At-Large,municipal council,2,6,True,86,220638,131,81,ok,sum.json,1.523,0.2384
+2021C,2021,Weld,Prairie School District RE-11J Office of School Director - Four Year Term,school board,3,2,False,196,220638,236,192,ok,sum.json,1.204,0.5986
+2021C,2021,Weld,Weld County School District 6 Board of Education School Director,school board,4,10,True,21432,220638,65396,0,?,sum.json,3.051,0.2372
+2021C,2021,Weld,Wiggins School District RE-50J School Director,school board,2,3,True,40,220638,63,38,ok,sum.json,1.575,0.2125
+2021C,2021,Yuma,City of Wray City Council,municipal council,3,3,False,564,1276,1326,557,ok,summary.zip,2.351,0.2163
+2021C,2021,Yuma,Haxtun School District RE-2J Board of Education Director,school board,3,6,True,6,16,16,0,?,summary.zip,2.667,0.1111
+2021C,2021,Yuma,Idalia School District RJ-3 Director,school board,3,5,True,221,346,631,0,?,summary.zip,2.855,0.0483
+2021C,2021,Yuma,Yuma School District-1 Board Director,school board,3,7,True,1394,2833,3862,0,?,summary.zip,2.77,0.0765
+2022G,2022,Adams,Town of Lochbuie Trustee,municipal council,4,5,True,291,448,49,28,<=,summary.zip,0.168,0.9579
+2022G,2022,Adams,Town of Lochbuie - Home Rule Charter Commission,charter commission,9,9,False,291,448,68,28,ok,summary.zip,0.234,0.974
+2022G,2022,Boulder,Town of Superior Trustee,municipal council,4,8,True,6257,0,15758,5937,ok,sum.json,2.518,0.3704
+2022G,2022,Boulder,Town of Erie Home Rule Charter Commission,charter commission,9,18,True,9372,0,28102,7182,<=,sum.json,2.999,0.6668
+2022G,2022,Delta,City of Delta Ballot Question 2C,ballot question,9,9,False,4839,8142,7382,3160,ok,summary.zip,1.526,0.8305
+2022G,2022,Douglas,Town of Parker Councilmember,municipal council,3,5,True,30762,0,57224,0,?,summary.zip,1.86,0.3799
+2022G,2022,Eagle,Town of Avon Council Members,municipal council,4,5,True,1855,2979,4121,1742,ok,summary.zip,2.222,0.4446
+2022G,2022,El_Paso,Town of Monument Trustee,municipal council,4,8,True,8079,12023,16531,5279,ok,summary.zip,2.046,0.4885
+2022G,2022,El_Paso,Town of Palmer Lake Trustee,municipal council,3,5,True,2731,4128,3063,1552,<=,summary.zip,1.122,0.6261
+2022G,2022,Fremont,Town of Rockvale Trustee,municipal council,5,3,False,1177,2002,328,300,ok,summary.zip,0.279,0.9443
+2022G,2022,Fremont,Town of Williamsburg Trustee,municipal council,4,4,False,1177,2002,645,300,ok,summary.zip,0.548,0.863
+2022G,2022,Gilpin,City of Central Alderman/City Council,municipal council,2,2,False,493,990,358,320,ok,summary.zip,0.726,0.6369
+2022G,2022,Grand,Town of Granby Board of Trustees,municipal council,4,9,True,2047,3477,2548,0,<=,summary.zip,1.245,0.6888
+2022G,2022,Phillips,City of Holyoke City Council Member,municipal council,3,5,True,1136,1611,1991,0,?,summary.zip,1.753,0.4158
+2022G,2022,Pitkin,Town of Snowmass Village Town Council,municipal council,2,4,True,3081,4690,2632,1474,ok,summary.zip,0.854,0.5729
+2022G,2022,Pitkin,Crystal Oaks Metropolitan District Board of Directors - 4 Year Term,special district,3,3,False,636,877,218,87,ok,summary.zip,0.343,0.8857
+2022G,2022,Pitkin,Crystal Oaks Metropolitan District Board of Directors - 2 Year Term,special district,2,3,True,636,877,149,87,<=,summary.zip,0.234,0.8829
+2022G,2022,Weld,City of Dacono Council Members,municipal council,2,2,False,2429,4172,2091,1970,ok,summary.zip,0.861,0.5696
+2022G,2022,Weld,Town of Hudson Town Council,municipal council,5,5,False,801,1393,1280,500,ok,summary.zip,1.598,0.6804
+2022G,2022,Weld,Town of Keenesburg Board of Trustees,municipal council,4,8,True,1831,2928,1851,667,<=,summary.zip,1.011,0.7473
+2022G,2022,Weld,Town of Lochbuie Trustee,municipal council,4,5,True,2411,4800,3689,1725,<=,summary.zip,1.53,0.6175
+2022G,2022,Weld,Town of Mead Trustee,municipal council,4,5,True,4179,5951,5522,1853,<=,summary.zip,1.321,0.6697
+2022G,2022,Weld,Town of Erie Home Rule Charter Commission,charter commission,9,18,True,10053,13658,30719,8698,<=,summary.zip,3.056,0.6605
+2022G,2022,Weld,Town of Lochbuie - Home Rule Charter Commission,charter commission,9,9,False,2411,4800,4898,1725,ok,summary.zip,2.032,0.7743
+2023C,2023,Adams,City of Aurora Council Member - At Large,municipal council,2,4,True,5697,22716,8688,5574,ok,summary.zip,1.525,0.2375
+2023C,2023,Adams,City of Commerce City Councilmember - At Large,municipal council,2,4,True,10587,37404,13437,10383,ok,summary.zip,1.269,0.3654
+2023C,2023,Adams,City of Westminster Council Members,municipal council,3,10,True,16953,45364,43488,15618,ok,summary.zip,2.565,0.1449
+2023C,2023,Adams,Adams-Arapahoe School District 28J Board of Directors - At Large,school board,3,5,True,5375,21490,10865,0,?,summary.zip,2.021,0.3262
+2023C,2023,Adams,Bennett School District 29J School Director - At Large,school board,3,4,True,1289,3204,2541,1274,ok,summary.zip,1.971,0.3429
+2023C,2023,Adams,Byers School District 32J School Board Director,school board,4,5,True,155,396,375,0,?,summary.zip,2.419,0.3952
+2023C,2023,Adams,Strasburg School District 31J School Board Director,school board,3,5,True,1429,3255,2969,0,?,summary.zip,2.078,0.3074
+2023C,2023,Adams,Westminster Public Schools Board Of Education,school board,3,6,True,12591,42254,28595,0,?,summary.zip,2.271,0.243
+2023C,2023,Alamosa,Center Consolidated School District 26 JT Director - At Large,school board,2,4,True,4,4,5,3,ok,summary.zip,1.25,0.375
+2023C,2023,Alamosa,Sanford School District 6J Director - At Large - Four Year Term,school board,3,5,True,12,17,18,10,ok,summary.zip,1.5,0.5
+2023C,2023,Arapahoe,City of Aurora Council Member - At Large,municipal council,2,4,True,74355,220310,118691,72048,ok,summary.zip,1.596,0.2019
+2023C,2023,Arapahoe,City of Englewood Council Member - At Large - 4 Year Term,municipal council,2,3,True,8698,25673,10804,7789,ok,summary.zip,1.242,0.3789
+2023C,2023,Arapahoe,City of Greenwood Village Councilmember - District 1,municipal council,2,2,False,1829,3402,2426,0,?,summary.zip,1.326,0.3368
+2023C,2023,Arapahoe,City of Greenwood Village Councilmember - District 2,municipal council,2,4,True,2366,6085,2235,0,?,summary.zip,0.945,0.5277
+2023C,2023,Arapahoe,City of Greenwood Village Councilmember - District 3,municipal council,2,2,False,1779,4210,1875,0,?,summary.zip,1.054,0.473
+2023C,2023,Arapahoe,City of Greenwood Village Councilmember - District 4,municipal council,2,2,False,1669,4071,1602,0,?,summary.zip,0.96,0.5201
+2023C,2023,Arapahoe,Adams-Arapahoe School District 28J Board of Directors - At Large,school board,3,5,True,33885,114474,73700,0,?,summary.zip,2.175,0.275
+2023C,2023,Arapahoe,Arapahoe County School District #6 Littleton Public Schools School Director - At Large,school board,2,4,True,38109,80419,55390,0,?,summary.zip,1.453,0.2733
+2023C,2023,Arapahoe,Bennett School District 29J School Director - At Large,school board,3,4,True,2061,5373,2184,1194,<=,summary.zip,1.06,0.6468
+2023C,2023,Arapahoe,Byers School District 32J School Board Director,school board,4,5,True,696,1725,1972,0,?,summary.zip,2.833,0.2917
+2023C,2023,Arapahoe,Deer Trail School District 26J Board of Education Director - 4 Year Term,school board,2,3,True,480,1198,714,0,?,summary.zip,1.488,0.2562
+2023C,2023,Arapahoe,Deer Trail School District 26J Board of Education Director - 2 Year Term,school board,3,3,False,480,1198,871,0,?,summary.zip,1.815,0.3951
+2023C,2023,Arapahoe,Englewood School District No. 1 School Board Director,school board,2,2,False,8509,24953,6380,6966,ok,summary.zip,0.75,0.6251
+2023C,2023,Arapahoe,Strasburg School District 31J School Board Director,school board,3,5,True,950,2151,1295,0,?,summary.zip,1.363,0.5456
+2023C,2023,Archuleta,Bayfield School District 10 Jt-R Board of Directors,school board,3,4,True,16,36,38,0,?,summary.zip,2.375,0.2083
+2023C,2023,Archuleta,Ignacio School District 11JT Board of Directors,school board,3,5,True,246,512,457,0,?,summary.zip,1.858,0.3808
+2023C,2023,Baca,Pritchett School District RE-3 Director - Four-Year Term,school board,3,3,False,118,220,238,109,ok,summary.zip,2.017,0.3277
+2023C,2023,Baca,Springfield School District RE-4 Director - Four-Year Term,school board,3,4,True,733,1559,1893,706,ok,summary.zip,2.583,0.1392
+2023C,2023,Bent,City of Las Animas Light & Power Board,special district,2,2,False,635,1683,790,627,ok,summary.zip,1.244,0.378
+2023C,2023,Bent,City of Las Animas City Council - Ward 2,municipal council,2,5,True,201,484,320,0,?,summary.zip,1.592,0.204
+2023C,2023,Bent,City of Las Animas City Council - Ward 3,municipal council,2,2,False,226,611,301,0,?,summary.zip,1.332,0.3341
+2023C,2023,Boulder,City of Boulder Council Candidates,municipal council,4,10,True,34249,65700,113379,33283,ok,summary.zip,3.31,0.1724
+2023C,2023,Boulder,City of Lafayette City Council Candidates,municipal council,4,7,True,11357,21641,32124,0,?,summary.zip,2.829,0.2929
+2023C,2023,Boulder,City of Louisville City Council - Ward 3,municipal council,2,2,False,4848,8226,2967,0,?,summary.zip,0.612,0.694
+2023C,2023,Boulder,Estes Park School District R-3 School Board Director - At Large,school board,2,4,True,387,783,364,0,?,summary.zip,0.941,0.5297
+2023C,2023,Boulder,Town of Superior Home Rule Charter Commission,charter commission,9,11,True,4166,8810,18487,3789,ok,summary.zip,4.438,0.5069
+2023C,2023,Clear_Creek,City of Idaho Springs Councilmember - Ward I,municipal council,2,3,True,783,1797,409,0,<=,summary.zip,0.522,0.7388
+2023C,2023,Clear_Creek,City of Idaho Springs Councilmember - Ward II,municipal council,2,1,False,581,1394,144,0,?,summary.zip,0.248,0.8761
+2023C,2023,Conejos,Sanford School District 6J Director - At Large - Four Year Term,school board,3,5,True,454,999,1074,434,ok,summary.zip,2.366,0.2115
+2023C,2023,Conejos,South Conejos School District RE-10 Director - At Large,school board,2,6,True,703,1578,1016,0,?,summary.zip,1.445,0.2774
+2023C,2023,Crowley,Crowley County School District RE1-J Board of Directors - 4 Year Term,school board,3,4,True,1062,2256,2148,1030,ok,summary.zip,2.023,0.3258
+2023C,2023,Custer,Custer County School District C-1 Board of Directors - At Large,school board,3,6,True,2477,4165,5186,0,?,summary.zip,2.094,0.3021
+2023C,2023,Custer,Florence School District RE-2 Board of Directors - At Large - 4 Year Term,school board,3,4,True,147,295,231,70,ok,summary.zip,1.571,0.4762
+2023C,2023,Douglas,City of Aurora Council Member - At Large,municipal council,2,4,True,2138,0,3194,2058,ok,summary.zip,1.494,0.253
+2023C,2023,Eagle,Town of Eagle Council Member,municipal council,3,5,True,2643,4841,5183,0,?,summary.zip,1.961,0.3463
+2023C,2023,Eagle,Town of Vail Council Members - At Large,municipal council,4,10,True,1821,3653,5831,0,?,summary.zip,3.202,0.1995
+2023C,2023,Eagle,West Grand School District 1-Jt Board of Directors,school board,2,4,True,6,20,4,0,<=,summary.zip,0.667,0.6667
+2023C,2023,El_Paso,City of Fountain Council Member - At Large,municipal council,2,3,True,6076,29743,5604,4508,ok,summary.zip,0.922,0.5388
+2023C,2023,El_Paso,City of Manitou Springs City Council,municipal council,3,10,True,2044,4345,5086,1938,ok,summary.zip,2.488,0.1706
+2023C,2023,El_Paso,Academy School District 20 Board of Directors,school board,2,4,True,45426,100729,76114,43090,ok,summary.zip,1.676,0.1622
+2023C,2023,El_Paso,Big Sandy School District 100J Board of Directors,school board,3,5,True,188,529,359,0,?,summary.zip,1.91,0.3635
+2023C,2023,El_Paso,Cheyenne Mountain School District 12 Board of Directors,school board,3,5,True,11991,26090,19444,0,?,summary.zip,1.622,0.4595
+2023C,2023,El_Paso,Colorado Springs School District 11 Board of Directors,school board,4,10,True,65516,183804,209209,0,?,summary.zip,3.193,0.2017
+2023C,2023,El_Paso,Ellicott School District 22 Board of Directors,school board,3,3,False,3604,11220,1667,1301,ok,summary.zip,0.463,0.8458
+2023C,2023,El_Paso,Fountain-Fort Carson School District 8 Board of Directors,school board,3,4,True,5931,28752,6114,0,<=,summary.zip,1.031,0.6564
+2023C,2023,El_Paso,Florence School District RE-2 Board of Directors - At Large - 4 Year Term,school board,3,4,True,774,2892,196,71,<=,summary.zip,0.253,0.9156
+2023C,2023,El_Paso,Hanover School District 28 Board of Directors,school board,3,5,True,547,2341,850,0,?,summary.zip,1.554,0.482
+2023C,2023,El_Paso,Harrison School District No. 2 Board of Directors,school board,2,3,True,10913,56609,11435,0,?,summary.zip,1.048,0.4761
+2023C,2023,El_Paso,Peyton School District 23JT Board of Directors,school board,2,4,True,2794,5883,2155,1594,<=,summary.zip,0.771,0.6144
+2023C,2023,El_Paso,Manitou Springs School District 14 Board of Directors,school board,3,4,True,4098,8519,6054,0,?,summary.zip,1.477,0.5076
+2023C,2023,El_Paso,Miami-Yoder School District JT-60 Board of Directors,school board,2,3,True,653,1863,758,0,?,summary.zip,1.161,0.4196
+2023C,2023,El_Paso,Widefield School District 3 Board of Directors,school board,2,5,True,12196,47503,15638,0,?,summary.zip,1.282,0.3589
+2023C,2023,Elbert,Big Sandy School District 100J Board of Directors,school board,3,5,True,1169,2407,946,0,<=,summary.zip,0.809,0.7303
+2023C,2023,Elbert,Elizabeth School District C-1 Director - 2 Year Term,school board,2,3,True,8597,15806,12526,0,?,summary.zip,1.457,0.2715
+2023C,2023,Elbert,Elizabeth School District C-1 Director - 4 Year Term,school board,2,3,True,8597,15806,12629,0,?,summary.zip,1.469,0.2655
+2023C,2023,Elbert,Peyton School District 23JT Board of Directors,school board,2,4,True,585,1161,93,55,<=,summary.zip,0.159,0.9205
+2023C,2023,Elbert,Kiowa School District C-2 Director,school board,3,3,False,1724,3246,2349,1351,ok,summary.zip,1.363,0.5458
+2023C,2023,Elbert,Miami-Yoder School District JT-60 Board of Directors,school board,2,3,True,584,1246,30,0,<=,summary.zip,0.051,0.9743
+2023C,2023,Fremont,City of Cañon City City Council - At Large,municipal council,2,4,True,5567,12239,8262,5269,ok,summary.zip,1.484,0.2579
+2023C,2023,Fremont,City of Florence City Council - Ward 1,municipal council,2,3,True,370,929,562,0,?,summary.zip,1.519,0.2405
+2023C,2023,Fremont,City of Florence City Council - Ward 2,municipal council,2,3,True,410,1099,614,0,?,summary.zip,1.498,0.2512
+2023C,2023,Fremont,City of Florence City Council - Ward 3,municipal council,2,3,True,408,996,638,0,?,summary.zip,1.564,0.2181
+2023C,2023,Fremont,Cañon City School District RE-1 Board of Directors - At Large,school board,3,6,True,9909,21266,26016,9579,ok,summary.zip,2.625,0.1248
+2023C,2023,Fremont,Florence School District RE-2 Board of Directors - At Large - 4 Year Term,school board,3,4,True,3736,9390,7113,2527,ok,summary.zip,1.904,0.3654
+2023C,2023,Garfield,City of Rifle City Council,municipal council,3,4,True,1684,5331,3344,1666,ok,summary.zip,1.986,0.3381
+2023C,2023,Gilpin,Gilpin County School District RE-1 Director At Large,school board,3,6,True,1460,2910,3293,0,?,summary.zip,2.255,0.2482
+2023C,2023,Grand,West Grand School District 1-Jt Board of Directors,school board,2,4,True,996,2445,1574,0,?,summary.zip,1.58,0.2098
+2023C,2023,Gunnison,City of Gunnison City Council,municipal council,4,4,False,1897,4596,3912,1811,ok,summary.zip,2.062,0.4844
+2023C,2023,Gunnison,Gunnison Watershed School District RE-1J Board of Directors,school board,3,6,True,6837,14251,18865,0,?,summary.zip,2.759,0.0802
+2023C,2023,Jefferson,City of Edgewater Council Members,municipal council,4,5,True,1225,3244,3302,943,ok,summary.zip,2.696,0.3261
+2023C,2023,Jefferson,City of Westminster Council Members,municipal council,3,10,True,14342,34452,36686,12935,ok,summary.zip,2.558,0.1474
+2023C,2023,Jefferson,Town of Mountain View Council Members,municipal council,3,4,True,579,1223,537,207,<=,summary.zip,0.927,0.6908
+2023C,2023,Kit_Carson,Arriba-Flagler School District #20 Board of Directors,school board,2,4,True,379,616,664,0,?,summary.zip,1.752,0.124
+2023C,2023,Kit_Carson,Bethune School District R-5 Board of Directors,school board,3,4,True,200,314,469,182,ok,summary.zip,2.345,0.2183
+2023C,2023,Kit_Carson,Burlington School District RE-6J Board of Directors,school board,4,11,True,1362,2567,4749,1358,ok,summary.zip,3.487,0.1283
+2023C,2023,Kit_Carson,Hi-Plains School District R-23 Board of Directors,school board,3,4,True,222,443,598,0,?,summary.zip,2.694,0.1021
+2023C,2023,Kit_Carson,Stratton School District R-4 Board of Directors,school board,3,7,True,410,714,1123,0,?,summary.zip,2.739,0.087
+2023C,2023,La_Plata,Bayfield School District 10 Jt-R Board of Directors,school board,3,4,True,3374,7465,6490,0,?,summary.zip,1.924,0.3588
+2023C,2023,La_Plata,Ignacio School District 11JT Board of Directors,school board,3,5,True,1328,3551,2956,0,?,summary.zip,2.226,0.258
+2023C,2023,Lake,Lake County School District R-1 Board of Directors,school board,3,3,False,2119,5028,3020,2079,ok,summary.zip,1.425,0.5249
+2023C,2023,Larimer,Estes Park School District R-3 School Board Director - At Large,school board,2,4,True,5102,8561,8839,0,?,summary.zip,1.732,0.1338
+2023C,2023,Las_Animas,City of Trinidad Council Member - At Large,municipal council,3,10,True,2769,5781,7348,2695,ok,summary.zip,2.654,0.1154
+2023C,2023,Las_Animas,Primero School District RE-2 School Board Members,school board,3,5,True,517,1050,1219,0,?,summary.zip,2.358,0.2141
+2023C,2023,Las_Animas,Trinidad School District 1 School Directors,school board,3,6,True,3433,7208,7600,0,?,summary.zip,2.214,0.2621
+2023C,2023,Lincoln,Arriba-Flagler School District #20 Board of Directors,school board,2,4,True,133,266,234,0,?,summary.zip,1.759,0.1203
+2023C,2023,Lincoln,Crowley County School District RE1-J Board of Directors - 4 Year Term,school board,3,4,True,16,26,22,16,ok,summary.zip,1.375,0.5417
+2023C,2023,Lincoln,Miami-Yoder School District JT-60 Board of Directors,school board,2,3,True,56,159,81,0,?,summary.zip,1.446,0.2768
+2023C,2023,Logan,Frenchman School District RE-3 Board of Directors - Two Year Term,school board,2,3,True,401,695,565,381,ok,summary.zip,1.409,0.2955
+2023C,2023,Logan,Haxtun School District RE-2J Board of Directors,school board,5,9,True,28,46,123,28,ok,summary.zip,4.393,0.1214
+2023C,2023,Mineral,Creede School District Board Director,school board,2,4,True,596,992,1000,584,ok,summary.zip,1.678,0.1611
+2023C,2023,Moffat,City of Craig City Council,municipal council,4,5,True,2159,6245,6730,2058,ok,summary.zip,3.117,0.2207
+2023C,2023,Montezuma,Dolores School District RE-4A Board of Directors,school board,4,6,True,1660,3555,3921,1621,ok,summary.zip,2.362,0.4095
+2023C,2023,Montezuma,Mancos School District RE-6 Board of Directors,school board,3,5,True,1397,3149,3238,0,?,summary.zip,2.318,0.2274
+2023C,2023,Montrose,Norwood School District R-2J Board of Directors,school board,3,4,True,199,363,442,193,ok,summary.zip,2.221,0.2596
+2023C,2023,Montrose,West End School District RE-2 Board of Education Directors - At Large,school board,2,3,True,613,1362,914,0,?,summary.zip,1.491,0.2545
+2023C,2023,Morgan,Morgan County School District RE-3 School Director,school board,4,6,True,3819,10476,11505,0,?,summary.zip,3.013,0.2469
+2023C,2023,Otero,City of La Junta Council Member - Ward 2,municipal council,2,3,True,823,1693,1141,0,?,summary.zip,1.386,0.3068
+2023C,2023,Otero,City of Rocky Ford Council Member - Ward 1,municipal council,2,2,False,306,876,378,0,?,summary.zip,1.235,0.3824
+2023C,2023,Otero,East Otero School District R-1 School Board Member - At Large,school board,2,3,True,2719,6246,3716,0,?,summary.zip,1.367,0.3167
+2023C,2023,Ouray,City of Ouray Council Member - At Large,municipal council,2,3,True,500,946,868,355,ok,summary.zip,1.736,0.132
+2023C,2023,Ouray,Ouray School District R-1 School Board Director - At Large,school board,3,4,True,848,1700,1799,0,?,summary.zip,2.121,0.2928
+2023C,2023,Park,Platte Canyon School District RE-1 Board of Directors - At large,school board,2,3,True,4013,8909,4991,3957,ok,summary.zip,1.244,0.3781
+2023C,2023,Phillips,Haxtun School District RE-2J Board of Directors,school board,5,9,True,670,1073,3053,662,ok,summary.zip,4.557,0.0887
+2023C,2023,Phillips,Holyoke School District RE-1J Board of Directors - 4 Year Term,school board,4,10,True,1107,1960,4176,0,?,summary.zip,3.772,0.0569
+2023C,2023,Phillips,Holyoke School District RE-1J Board of Directors - 2 Year Term,school board,2,4,True,1107,1960,2058,0,?,summary.zip,1.859,0.0705
+2023C,2023,Pitkin,Aspen School District No. 1 Board of Directors,school board,2,4,True,4050,10722,6503,0,?,summary.zip,1.606,0.1972
+2023C,2023,Prowers,City of Lamar Councilman - Ward 2,municipal council,2,4,True,579,1400,877,0,?,summary.zip,1.515,0.2427
+2023C,2023,Pueblo,Pueblo School District No. 60 School Director - At Large - Four Year Term,school board,3,7,True,28559,73018,61464,26202,ok,summary.zip,2.152,0.2826
+2023C,2023,Rio_Grande,City of Monte Vista Councilor,municipal council,2,4,True,910,3026,1381,0,?,summary.zip,1.518,0.2412
+2023C,2023,Rio_Grande,Center Consolidated School District 26 JT Director - At Large,school board,2,4,True,51,193,59,38,ok,summary.zip,1.157,0.4216
+2023C,2023,Saguache,Center Consolidated School District 26 JT Director - At Large,school board,2,4,True,468,1411,618,356,ok,summary.zip,1.321,0.3397
+2023C,2023,Saguache,Gunnison Watershed School District RE-1J Board of Directors,school board,3,6,True,57,121,147,0,?,summary.zip,2.579,0.1404
+2023C,2023,San_Juan,Silverton School District No. 1 School Board Director,school board,2,4,True,377,754,605,372,ok,summary.zip,1.605,0.1976
+2023C,2023,San_Miguel,Town of Telluride Town Council,municipal council,2,6,True,1138,2019,1935,1113,ok,summary.zip,1.7,0.1498
+2023C,2023,San_Miguel,Norwood School District R-2J Board of Directors,school board,3,4,True,513,1057,1087,503,ok,summary.zip,2.119,0.2937
+2023C,2023,San_Miguel,Telluride School District R-1 Board of Directors,school board,3,5,True,2572,5033,4760,2496,ok,summary.zip,1.851,0.3831
+2023C,2023,Sedgwick,Haxtun School District RE-2J Board of Directors,school board,5,9,True,6,13,30,6,ok,summary.zip,5.0,0.0
+2023C,2023,Sedgwick,Holyoke School District RE-1J Board of Directors - 4 Year Term,school board,4,10,True,5,7,17,0,?,summary.zip,3.4,0.15
+2023C,2023,Sedgwick,Holyoke School District RE-1J Board of Directors - 2 Year Term,school board,2,4,True,5,7,10,0,?,summary.zip,2.0,0.0
+2023C,2023,Summit,Summit School District RE-1 Board of Directors - At Large,school board,4,8,True,9796,24279,32387,5600,ok,summary.zip,3.306,0.1735
+2023C,2023,Summit,West Grand School District 1-Jt Board of Directors,school board,2,4,True,47,141,58,0,?,summary.zip,1.234,0.383
+2023C,2023,Washington,Akron School District R-1 Board of Directors,school board,3,7,True,996,1795,2629,0,?,summary.zip,2.64,0.1201
+2023C,2023,Weld,City of Dacono Council Members,municipal council,2,5,True,1268,3936,1809,1218,ok,summary.zip,1.427,0.2867
+2023C,2023,Weld,Weld County School District 6 Board of Education School Director,school board,3,6,True,23864,71510,53068,0,?,summary.zip,2.224,0.2587
+2023C,2023,Weld,Prairie School District RE-11J Office of School Director,school board,2,3,True,181,297,310,0,?,summary.zip,1.713,0.1436
+2023C,2023,Yuma,City of Wray City Council,municipal council,4,5,True,617,1294,2189,0,?,summary.zip,3.548,0.113
+2023C,2023,Yuma,Haxtun School District RE-2J Board of Directors,school board,5,9,True,5,16,20,5,ok,summary.zip,4.0,0.2
+2023C,2023,Yuma,Holyoke School District RE-1J Board of Directors - 2 Year Term,school board,2,4,True,28,43,50,0,?,summary.zip,1.786,0.1071
+2023C,2023,Yuma,Holyoke School District RE-1J Board of Directors - 4 Year Term,school board,4,10,True,28,43,107,0,?,summary.zip,3.821,0.0446
+2023C,2023,Yuma,Wray School District RD-2 Board of Education Directors - 2 Year Term,school board,2,2,False,1302,2512,2091,0,?,summary.zip,1.606,0.197
+2023C,2023,Yuma,Wray School District RD-2 Board of Education Directors - 4 Year Term,school board,3,4,True,1302,2512,3485,0,?,summary.zip,2.677,0.1078
+2023C,2023,Yuma,Yuma School District-1 Board of Education Directors,school board,2,4,True,1355,2914,2523,0,?,summary.zip,1.862,0.069
+2024G,2024,Boulder,Town of Erie Council Member - District 1,municipal council,2,4,True,8512,9671,11467,0,?,summary.zip,1.347,0.3264
+2024G,2024,Boulder,Town of Erie Council Member - District 2,municipal council,2,4,True,1492,1700,2015,0,?,summary.zip,1.351,0.3247
+2024G,2024,Boulder,Town of Superior Trustee,municipal council,3,6,True,8254,9627,16417,7605,ok,summary.zip,1.989,0.337
+2024G,2024,Douglas,Town of Parker Councilmember,municipal council,3,7,True,42245,50950,74290,31791,ok,summary.zip,1.759,0.4138
+2024G,2024,Eagle,Town of Avon Council Member,municipal council,3,4,True,2403,3043,3972,2175,ok,summary.zip,1.653,0.449
+2024G,2024,El_Paso,Town of Palmer Lake Trustee,municipal council,3,5,True,1802,2113,3296,1684,ok,summary.zip,1.829,0.3903
+2024G,2024,El_Paso,Town of Monument Councilmember - District 2,municipal council,2,2,False,4555,5238,4043,0,?,summary.zip,0.888,0.5562
+2024G,2024,Elbert,Town of Elizabeth Trustee - Ward 1,municipal council,2,4,True,509,603,638,0,?,summary.zip,1.253,0.3733
+2024G,2024,Elbert,Town of Elizabeth Trustee - Ward 3,municipal council,2,3,True,570,730,767,0,?,summary.zip,1.346,0.3272
+2024G,2024,Fremont,Town of Rockvale Board of Trustees,municipal council,3,3,False,1448,1971,709,348,ok,summary.zip,0.49,0.8368
+2024G,2024,Gilpin,City of Central Alderman/City Council,municipal council,2,3,True,576,956,602,62,ok,summary.zip,1.045,0.4774
+2024G,2024,Grand,Town of Granby Board of Trustees,municipal council,3,6,True,1231,1705,2730,1074,ok,summary.zip,2.218,0.2608
+2024G,2024,Grand,Town of Hot Sulphur Springs Trustee,municipal council,3,4,True,422,583,839,411,ok,summary.zip,1.988,0.3373
+2024G,2024,Gunnison,Town of Mt. Crested Butte Town Council,municipal council,4,6,True,721,1016,1729,675,ok,summary.zip,2.398,0.4005
+2024G,2024,Jefferson,Town of Morrison Trustee,municipal council,3,4,True,0,235,450,193,na,summary.zip,,
+2024G,2024,Morgan,Town of Log Lane Village Trustee,municipal council,4,4,False,352,633,775,332,ok,summary.zip,2.202,0.4496
+2024G,2024,Morgan,Town of Wiggins Trustee,municipal council,5,6,True,967,1338,3444,771,ok,summary.zip,3.562,0.2877
+2024G,2024,Phillips,City of Holyoke City Council Member,municipal council,3,5,True,997,1393,2385,901,ok,summary.zip,2.392,0.2026
+2024G,2024,Pitkin,Town of Snowmass Village Town Council,municipal council,2,4,True,1821,2321,2790,1732,ok,summary.zip,1.532,0.2339
+2024G,2024,Routt,Town of Hayden Councilmember,municipal council,5,6,True,1120,1548,3987,808,ok,summary.zip,3.56,0.288
+2024G,2024,Weld,City of Dacono Council Members,municipal council,2,2,False,3109,4568,2890,2872,ok,summary.zip,0.93,0.5352
+2024G,2024,Weld,Town of Erie Council Member - District 2,municipal council,2,4,True,6906,8391,9164,0,?,summary.zip,1.327,0.3365
+2024G,2024,Weld,Town of Erie Council Member - District 3,municipal council,2,3,True,6146,7756,7123,0,?,summary.zip,1.159,0.4205
+2024G,2024,Weld,Town of Gilcrest Trustee,municipal council,4,4,False,407,701,775,374,ok,summary.zip,1.904,0.524
+2024G,2024,Weld,Town of Hudson Town Council,municipal council,3,4,True,736,1227,1234,710,ok,summary.zip,1.677,0.4411
+2024G,2024,Weld,Town of Keenesburg Board of Trustees,municipal council,5,6,True,1117,2661,2980,0,?,summary.zip,2.668,0.4664
+2024G,2024,Weld,Town of Kersey Trustee,municipal council,4,8,True,747,1068,1861,609,ok,summary.zip,2.491,0.3772
+2024G,2024,Weld,Town of LaSalle Trustee,municipal council,3,5,True,1107,1683,1887,1055,ok,summary.zip,1.705,0.4318
+2024G,2024,Weld,Town of Mead Trustee,municipal council,3,7,True,4081,5190,7249,3897,ok,summary.zip,1.776,0.4079
+2025C,2025,Adams,City of Aurora Council Member - At-Large,municipal council,2,5,True,6695,26406,11036,6494,ok,summary.zip,1.648,0.1758
+2025C,2025,Adams,City of Commerce City Councilmember - At-Large,municipal council,2,7,True,10854,41826,16212,0,?,summary.zip,1.494,0.2532
+2025C,2025,Adams,City of Westminster Council Members,municipal council,3,8,True,18909,46459,46816,18291,ok,summary.zip,2.476,0.1747
+2025C,2025,Adams,Adams County School District 14 Board of Education,school board,2,4,True,3619,19317,4969,0,?,summary.zip,1.373,0.3135
+2025C,2025,Adams,Adams-Arapahoe School District 28J Board of Directors - At-Large,school board,4,7,True,6300,24818,16838,0,?,summary.zip,2.673,0.3318
+2025C,2025,Adams,Strasburg School District 31J School Board Director,school board,2,3,True,1396,3602,1747,0,?,summary.zip,1.251,0.3743
+2025C,2025,Adams,Byers School District 32J School Board Director,school board,3,4,True,148,402,328,148,ok,summary.zip,2.216,0.2613
+2025C,2025,Adams,Wiggins School District RE-50J Board of Education,school board,2,4,True,11,23,17,0,?,summary.zip,1.545,0.2273
+2025C,2025,Alamosa,Sanford School District 6J Director - At-Large,school board,2,3,True,8,16,12,0,?,summary.zip,1.5,0.25
+2025C,2025,Alamosa,Sangre de Cristo School District RE-22J Director - At-Large,school board,2,3,True,343,871,467,298,ok,summary.zip,1.362,0.3192
+2025C,2025,Arapahoe,City of Aurora Council Member - At-Large,municipal council,2,5,True,72320,221749,123875,70423,ok,summary.zip,1.713,0.1436
+2025C,2025,Arapahoe,City of Greenwood Village Councilmember - District 1,municipal council,2,2,False,1591,3353,2164,0,?,summary.zip,1.36,0.3199
+2025C,2025,Arapahoe,City of Greenwood Village Councilmember - District 2,municipal council,2,4,True,1155,3351,1771,0,?,summary.zip,1.533,0.2333
+2025C,2025,Arapahoe,City of Greenwood Village Councilmember - District 3,municipal council,2,3,True,1439,2941,2219,0,?,summary.zip,1.542,0.229
+2025C,2025,Arapahoe,City of Greenwood Village Councilmember - District 4,municipal council,2,3,True,1241,2937,1810,0,?,summary.zip,1.459,0.2707
+2025C,2025,Arapahoe,City of Sheridan City Council Member - Ward 2,municipal council,2,2,False,347,1348,404,0,?,summary.zip,1.164,0.4179
+2025C,2025,Arapahoe,Adams-Arapahoe School District 28J Board of Directors - At-Large,school board,4,7,True,33541,114786,96234,0,?,summary.zip,2.869,0.2827
+2025C,2025,Arapahoe,Arapahoe County School District #6 Littleton Public Schools School Director - At-Large,school board,3,4,True,39636,78583,76528,0,?,summary.zip,1.931,0.3564
+2025C,2025,Arapahoe,Byers School District 32J School Board Director,school board,3,4,True,671,1790,1537,670,ok,summary.zip,2.291,0.2365
+2025C,2025,Arapahoe,Englewood School District School Board Director,school board,3,6,True,8349,21595,17073,0,?,summary.zip,2.045,0.3184
+2025C,2025,Arapahoe,Strasburg School District 31J School Board Director,school board,2,3,True,509,1552,612,0,?,summary.zip,1.202,0.3988
+2025C,2025,Archuleta,Bayfield School District 10 Jt-R Board of Directors,school board,3,4,True,7,38,15,0,?,summary.zip,2.143,0.2857
+2025C,2025,Archuleta,Ignacio School District 11JT Board of Directors,school board,2,3,True,207,527,291,0,?,summary.zip,1.406,0.2971
+2025C,2025,Baca,Walsh School District RE-1 Board of Directors - Four Year Term,school board,2,3,True,323,685,532,0,?,summary.zip,1.647,0.1765
+2025C,2025,Baca,Walsh School District RE-1 Board of Directors - Two Year Term,school board,2,3,True,323,685,543,0,?,summary.zip,1.681,0.1594
+2025C,2025,Baca,Springfield School District RE-4 Board of Directors - Four Year Term,school board,2,4,True,809,1587,1318,750,ok,summary.zip,1.629,0.1854
+2025C,2025,Boulder,City of Boulder Council Candidates,municipal council,4,11,True,34109,0,113888,33166,ok,sum.json,3.339,0.1653
+2025C,2025,Boulder,City of Lafayette City Council,municipal council,4,10,True,12089,0,36638,11827,ok,sum.json,3.031,0.2423
+2025C,2025,Boulder,City of Longmont City Council - At-Large,municipal council,2,6,True,33920,0,52333,31844,ok,sum.json,1.543,0.2286
+2025C,2025,Chaffee,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,5877,10497,5277,5691,ok,summary.zip,0.898,0.551
+2025C,2025,Clear_Creek,City of Idaho Springs City Council - Ward 2,municipal council,2,2,False,227,612,287,0,?,summary.zip,1.264,0.3678
+2025C,2025,Conejos,Sanford School District 6J Director - At-Large,school board,2,3,True,450,1061,709,0,?,summary.zip,1.576,0.2122
+2025C,2025,Crowley,Crowley County School District RE 1-J Board of Directors,school board,4,4,False,966,2273,2052,956,ok,summary.zip,2.124,0.4689
+2025C,2025,Crowley,Manzanola School District 3J Board of Directors,school board,2,3,True,29,65,40,0,?,summary.zip,1.379,0.3103
+2025C,2025,Dolores,Telluride School District R-1 Board of Directors,school board,2,3,True,767,1766,103,745,na,summary.zip,,
+2025C,2025,Douglas,City of Aurora Council Member - At-Large,municipal council,2,5,True,2067,0,3439,2017,ok,summary.zip,1.664,0.1681
+2025C,2025,Eagle,Town of Eagle Council Member,municipal council,4,10,True,2776,5413,9051,2457,ok,summary.zip,3.26,0.1849
+2025C,2025,Eagle,Town of Vail Council Members - At-Large,municipal council,4,6,True,1820,3880,5227,1797,ok,summary.zip,2.872,0.282
+2025C,2025,Eagle,West Grand School District 1-Jt Board of Directors - 4 year term,school board,4,6,True,10,21,12,3,<=,summary.zip,1.2,0.7
+2025C,2025,Eagle,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,15516,36182,13718,14902,ok,summary.zip,0.884,0.5579
+2025C,2025,El_Paso,Academy School District 20 Board of Directors,school board,3,7,True,41419,104850,107443,0,?,summary.zip,2.594,0.1353
+2025C,2025,El_Paso,Calhan School District RJ1 Director,school board,3,4,True,946,2776,1651,0,?,summary.zip,1.745,0.4183
+2025C,2025,El_Paso,Cheyenne Mountain School District 12 Board of Directors,school board,2,4,True,8274,19015,13031,0,?,summary.zip,1.575,0.2125
+2025C,2025,El_Paso,Colorado Springs School District 11 Board of Directors,school board,3,7,True,60966,182794,156226,0,?,summary.zip,2.563,0.1458
+2025C,2025,El_Paso,Ellicott School District 22 Board of Directors,school board,3,6,True,1279,4249,2479,0,?,summary.zip,1.938,0.3539
+2025C,2025,El_Paso,Manitou Springs School District 14 Board of Directors,school board,2,2,False,3634,7418,3600,3546,ok,summary.zip,0.991,0.5047
+2025C,2025,El_Paso,Miami-Yoder School District JT60 Board of Directors,school board,3,4,True,613,1900,1099,583,ok,summary.zip,1.793,0.4024
+2025C,2025,El_Paso,Peyton School District No. 23JT Board of Directors,school board,3,4,True,1594,3645,2432,1560,ok,summary.zip,1.526,0.4914
+2025C,2025,El_Paso,Widefield School District 3 Board of Directors,school board,3,5,True,11564,45192,19323,11303,ok,summary.zip,1.671,0.443
+2025C,2025,Elbert,Calhan School District RJ1 Director,school board,3,4,True,1011,4772,82,57,<=,summary.zip,0.081,0.973
+2025C,2025,Elbert,Miami-Yoder School District JT60 Board of Directors,school board,3,4,True,568,3921,32,19,<=,summary.zip,0.056,0.9812
+2025C,2025,Elbert,Elizabeth School District Board of Education Director,school board,3,5,True,8589,18785,16480,0,?,summary.zip,1.919,0.3604
+2025C,2025,Elbert,Kiowa School District C-2 Board of Education Director,school board,2,4,True,3187,9750,1978,1503,<=,summary.zip,0.621,0.6897
+2025C,2025,Elbert,Peyton School District No. 23JT Board of Directors,school board,3,4,True,1011,4772,114,57,<=,summary.zip,0.113,0.9624
+2025C,2025,Fremont,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,50,127,56,50,ok,summary.zip,1.12,0.44
+2025C,2025,Garfield,Town of Silt Board of Trustees,municipal council,4,5,True,729,2164,1593,716,ok,summary.zip,2.185,0.4537
+2025C,2025,Garfield,City of Rifle City Council,municipal council,5,8,True,1732,5655,5337,1708,ok,summary.zip,3.081,0.3837
+2025C,2025,Garfield,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,16194,39953,13081,15613,ok,summary.zip,0.808,0.5961
+2025C,2025,Gilpin,Gilpin County School District RE-1 Director - At large - 4-year term,school board,2,3,True,1381,2858,1855,1057,ok,summary.zip,1.343,0.3284
+2025C,2025,Grand,West Grand School District 1-Jt Board of Directors - 4 year term,school board,4,6,True,982,2335,3064,826,ok,summary.zip,3.12,0.22
+2025C,2025,Gunnison,City of Gunnison City Council,municipal council,3,4,True,1874,4439,3862,1837,ok,summary.zip,2.061,0.3131
+2025C,2025,Huerfano,Huerfano RE-1 School District School Board Director,school board,3,4,True,1916,4811,3688,0,?,summary.zip,1.925,0.3584
+2025C,2025,Huerfano,La Veta School District RE-2 School Board Director - 2-year term,school board,2,3,True,647,1358,856,0,?,summary.zip,1.323,0.3385
+2025C,2025,Huerfano,La Veta School District RE-2 School Board Director - 4-year term,school board,2,2,False,647,1358,713,0,?,summary.zip,1.102,0.449
+2025C,2025,Jefferson,City of Edgewater Council Members,municipal council,4,4,False,1253,3119,3259,966,ok,summary.zip,2.601,0.3498
+2025C,2025,Jefferson,City of Westminster Council Members,municipal council,3,8,True,15289,34126,41079,14850,ok,summary.zip,2.687,0.1044
+2025C,2025,Jefferson,Town of Mountain View Council Members,municipal council,3,7,True,241,416,642,236,ok,summary.zip,2.664,0.112
+2025C,2025,Kit_Carson,Burlington School District RE-6J Board of Directors,school board,4,6,True,1130,2616,3741,0,?,summary.zip,3.311,0.1723
+2025C,2025,Kit_Carson,Stratton School District R-4 Board of Directors,school board,2,3,True,365,720,606,0,?,summary.zip,1.66,0.1699
+2025C,2025,La_Plata,Bayfield School District 10 Jt-R Board of Directors,school board,3,4,True,3606,7791,7206,0,?,summary.zip,1.998,0.3339
+2025C,2025,La_Plata,Ignacio School District 11JT Board of Directors,school board,2,3,True,1398,3789,1939,0,?,summary.zip,1.387,0.3065
+2025C,2025,Lake,City of Leadville City Council - Ward 2,municipal council,2,2,False,226,833,244,0,?,summary.zip,1.08,0.4602
+2025C,2025,Lake,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,1745,5930,1715,1728,ok,summary.zip,0.983,0.5086
+2025C,2025,Larimer,City of Loveland City Council - Ward 3,municipal council,2,4,True,6291,15180,9072,0,?,summary.zip,1.442,0.279
+2025C,2025,Las_Animas,City of Trinidad Council Member - At-Large,municipal council,3,7,True,2608,6310,6570,2527,ok,summary.zip,2.519,0.1603
+2025C,2025,Lincoln,Crowley County School District RE 1-J Board of Directors,school board,4,4,False,23,26,36,22,ok,summary.zip,1.565,0.6087
+2025C,2025,Lincoln,Miami-Yoder School District JT60 Board of Directors,school board,3,4,True,45,144,104,44,ok,summary.zip,2.311,0.2296
+2025C,2025,Logan,Frenchman School District RE-3 Board of Directors,school board,4,5,True,383,752,1203,0,?,summary.zip,3.141,0.2148
+2025C,2025,Logan,Haxtun School District RE-2J Board Member,school board,2,2,False,23,50,24,22,ok,summary.zip,1.043,0.4783
+2025C,2025,Logan,Peetz Plateau School District RE-5 Board of Directors,school board,2,4,True,239,411,431,0,?,summary.zip,1.803,0.0983
+2025C,2025,Mesa,Glade Park Fire Protection District - 2 year term,special district,2,2,False,650,916,1016,641,ok,summary.zip,1.563,0.2185
+2025C,2025,Mesa,Glade Park Fire Protection District - 4 year term,special district,3,3,False,650,916,1482,641,ok,summary.zip,2.28,0.24
+2025C,2025,Moffat,City of Craig City Council,municipal council,3,5,True,2018,6407,4527,1987,ok,summary.zip,2.243,0.2522
+2025C,2025,Moffat,Moffat County Affiliated Junior College Board of Control Member - Four Year Term,party/other,2,2,False,3359,9994,3851,3313,ok,summary.zip,1.146,0.4268
+2025C,2025,Montezuma,Mancos School District RE-6 Board of Directors,school board,2,4,True,1538,3168,2455,1506,ok,summary.zip,1.596,0.2019
+2025C,2025,Montrose,Norwood School District R-2J Board of Directors,school board,2,3,True,237,399,350,234,ok,summary.zip,1.477,0.2616
+2025C,2025,Morgan,Weldon Valley School District RE-20J Board of Education (4 year term),school board,3,4,True,322,738,753,251,ok,summary.zip,2.339,0.2205
+2025C,2025,Morgan,Wiggins School District RE-50J Board of Education,school board,2,4,True,969,2916,1619,0,?,summary.zip,1.671,0.1646
+2025C,2025,Otero,Manzanola School District 3J Board of Directors,school board,2,3,True,237,0,378,0,?,summary.zip,1.595,0.2025
+2025C,2025,Otero,Swink School District 33 School Board Member - At-Large (Four Year Term),school board,2,3,True,484,0,782,365,ok,summary.zip,1.616,0.1921
+2025C,2025,Otero,East Otero School District R-1 School Board Member - At-Large,school board,3,4,True,2112,0,4387,0,?,summary.zip,2.077,0.3076
+2025C,2025,Ouray,Ouray School District R-1 Board Director - At-Large,school board,2,3,True,894,1588,1436,0,?,summary.zip,1.606,0.1969
+2025C,2025,Park,Platte Canyon School District RE-1 Board of Directors - At-Large,school board,3,4,True,3418,8942,6286,0,?,summary.zip,1.839,0.387
+2025C,2025,Phillips,Haxtun School District RE-2J Board Member,school board,2,2,False,505,1101,716,497,ok,summary.zip,1.418,0.2911
+2025C,2025,Pitkin,Aspen School District No. 1 Board of Directors,school board,3,3,False,4555,11524,7848,4407,ok,summary.zip,1.723,0.4257
+2025C,2025,Pitkin,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,6093,15007,5931,5892,ok,summary.zip,0.973,0.5133
+2025C,2025,Pueblo,City of Pueblo Council Member - At-Large,municipal council,2,7,True,26612,71783,46040,26105,ok,summary.zip,1.73,0.135
+2025C,2025,Pueblo,City of Pueblo Board of Water Works Member,special district,2,4,True,26612,71783,42725,26105,ok,summary.zip,1.605,0.1973
+2025C,2025,Pueblo,Pueblo School District No. 60 School Director - At-Large,school board,2,7,True,27018,73054,46861,0,?,summary.zip,1.734,0.1328
+2025C,2025,Rio_Blanco,Rangely School District RE-4 Director - At-Large (4 Year Term),school board,3,6,True,793,1903,1923,762,ok,summary.zip,2.425,0.1917
+2025C,2025,Rio_Grande,Upper Rio Grande School District C-7 Director,school board,2,6,True,1476,3603,2417,0,?,summary.zip,1.638,0.1812
+2025C,2025,Routt,Hayden School District RE-1 Director - At-Large,school board,2,3,True,856,2344,1168,0,?,summary.zip,1.364,0.3178
+2025C,2025,Routt,Steamboat Springs School District RE2 Director - At-Large,school board,2,4,True,7876,16706,11454,0,?,summary.zip,1.454,0.2729
+2025C,2025,Routt,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,7895,16767,7214,7610,ok,summary.zip,0.914,0.5431
+2025C,2025,Saguache,Sangre de Cristo School District RE-22J Director - At-Large,school board,2,3,True,44,124,59,42,ok,summary.zip,1.341,0.3295
+2025C,2025,San_Miguel,Town of Telluride Town Council,municipal council,4,3,False,1045,2000,1550,1032,ok,summary.zip,1.483,0.6292
+2025C,2025,San_Miguel,Norwood School District R-2J Board of Directors,school board,2,3,True,615,1131,821,610,ok,summary.zip,1.335,0.3325
+2025C,2025,San_Miguel,Telluride School District R-1 Board of Directors,school board,2,3,True,2362,5200,3339,0,?,summary.zip,1.414,0.2932
+2025C,2025,Sedgwick,Haxtun School District RE-2J Board Member,school board,2,2,False,5,12,4,5,ok,summary.zip,0.8,0.6
+2025C,2025,Sedgwick,Julesburg School District RE-1 Director - 2-year term,school board,2,3,True,546,1097,907,0,?,summary.zip,1.661,0.1694
+2025C,2025,Sedgwick,Julesburg School District RE-1 Director - 4-year term,school board,3,7,True,546,1097,1481,0,?,summary.zip,2.712,0.0958
+2025C,2025,Summit,Summit School District RE-1 Board of Directors - At-Large,school board,3,5,True,9094,22306,18462,8725,ok,summary.zip,2.03,0.3233
+2025C,2025,Summit,West Grand School District 1-Jt Board of Directors - 4 year term,school board,4,6,True,67,153,158,42,ok,summary.zip,2.358,0.4104
+2025C,2025,Summit,Colorado Mountain College Board of Trustees - At-Large,municipal council,2,2,False,9094,22306,8486,8725,ok,summary.zip,0.933,0.5334
+2025C,2025,Teller,Cripple Creek-Victor School District RE-1 Board of Directors - At-Large,school board,3,3,False,1765,4544,2641,1738,ok,summary.zip,1.496,0.5012
+2025C,2025,Teller,City of Cripple Creek Home Rule Charter Commission,charter commission,8,8,False,271,894,990,261,ok,summary.zip,3.653,0.5434
+2025C,2025,Washington,Akron School District R-1 School Board Director - At large - 4-year term,school board,2,3,True,932,1869,1527,855,ok,summary.zip,1.638,0.1808
+2025C,2025,Weld,City of Dacono Council Members,municipal council,2,3,True,1125,4237,1505,1076,ok,summary.zip,1.338,0.3311
+2025C,2025,Weld,City of Longmont City Council - At-Large,municipal council,2,6,True,151,745,220,139,ok,summary.zip,1.457,0.2715
+2025C,2025,Weld,Town of Severance Council Members,municipal council,4,6,True,2751,8173,7147,2668,ok,summary.zip,2.598,0.3505
+2025C,2025,Weld,Weld County School District 6 Board of Education School Director,school board,4,5,True,24583,76106,62532,0,?,summary.zip,2.544,0.3641
+2025C,2025,Weld,Weldon Valley School District RE-20J Board of Education (4 year term),school board,3,4,True,0,0,0,0,na,summary.zip,,
+2025C,2025,Weld,Wiggins School District RE-50J Board of Education,school board,2,4,True,58,185,94,0,?,summary.zip,1.621,0.1897
+2025C,2025,Yuma,City of Yuma City Council,municipal council,3,5,True,822,1917,2102,807,ok,summary.zip,2.557,0.1476
+2025C,2025,Yuma,Haxtun School District RE-2J Board Member,school board,2,2,False,6,17,4,6,ok,summary.zip,0.667,0.6667
+2025C,2025,Yuma,Wray School District RD-2 Board of Education Directors,school board,2,3,True,1162,2529,2011,0,?,summary.zip,1.731,0.1347
+2025C,2025,Yuma,Yuma School District-1 Board of Education Directors,school board,3,3,False,1275,3037,2809,0,?,summary.zip,2.203,0.2656
+2026G,2026,Adams,Town of Lochbuie Trustee,municipal council,5,6,True,192,321,406,0,?,summary.zip,2.115,0.5771
+2026G,2026,Boulder,City of Boulder Council Candidates,municipal council,5,13,True,47561,66231,173265,43776,ok,summary.zip,3.643,0.2714
+2026G,2026,Boulder,Town of Superior Council Member,municipal council,5,5,False,7254,10033,17388,5135,ok,summary.zip,2.397,0.5206
+2026G,2026,Boulder,Proposed Municipality of Niwot Home Rule Charter Commission,charter commission,9,28,True,2812,3470,15966,2744,ok,summary.zip,5.678,0.3691
+2026G,2026,Chaffee,Town of Buena Vista Trustee,municipal council,3,7,True,1733,2820,3779,1516,ok,summary.zip,2.181,0.2731
+2026G,2026,Douglas,Town of Parker Councilmember,municipal council,3,5,True,29480,32748,63213,0,?,summary.zip,2.144,0.2852
+2026G,2026,Eagle,Town of Avon Council Member,municipal council,4,7,True,1835,2990,4341,0,?,summary.zip,2.366,0.4086
+2026G,2026,El_Paso,Town of Green Mountain Falls Trustee,municipal council,3,2,False,313,471,341,298,ok,summary.zip,1.089,0.6368
+2026G,2026,El_Paso,Town of Monument Councilmember - At-Large,municipal council,2,2,False,6868,10900,6090,6588,ok,summary.zip,0.887,0.5566
+2026G,2026,El_Paso,Town of Palmer Lake Trustee,municipal council,5,10,True,1526,2332,5239,1370,ok,summary.zip,3.433,0.3134
+2026G,2026,Elbert,Town of Elizabeth Trustee,municipal council,4,6,True,1230,0,3218,0,?,summary.zip,2.616,0.3459
+2026G,2026,Fremont,Town of Rockvale Board of Trustees,municipal council,4,4,False,254,498,679,0,?,summary.zip,2.673,0.3317
+2026G,2026,Fremont,Town of Williamsburg Board of Trustees,municipal council,6,12,True,321,657,1418,235,ok,summary.zip,4.417,0.2638
+2026G,2026,Gilpin,City of Central Alderman,municipal council,2,5,True,328,0,509,226,ok,summary.zip,1.552,0.2241
+2026G,2026,Grand,Town of Hot Sulphur Springs Board of Trustees,municipal council,3,4,True,348,0,682,340,ok,summary.zip,1.96,0.3467
+2026G,2026,Grand,Town of Granby Board of Trustees,municipal council,3,9,True,1089,0,2566,0,?,summary.zip,2.356,0.2146
+2026G,2026,Grand,Town of Fraser Board of Trustees,municipal council,4,5,True,593,0,1561,0,?,summary.zip,2.632,0.3419
+2026G,2026,Gunnison,Town of Mt. Crested Butte Town Council,municipal council,3,4,True,587,948,1185,560,ok,summary.zip,2.019,0.3271
+2026G,2026,Jefferson,Town of Morrison Trustees,municipal council,3,4,True,204,286,442,193,ok,summary.zip,2.167,0.2778
+2026G,2026,Logan,Town of Fleming Town Council,municipal council,4,4,False,173,308,511,156,ok,summary.zip,2.954,0.2616
+2026G,2026,Mesa,Town of De Beque Trustee,municipal council,3,3,False,173,383,325,165,ok,summary.zip,1.879,0.3738
+2026G,2026,Montrose,"West End Health Service District Directors (May, 2027)",special district,2,3,True,1083,1899,1361,1025,ok,summary.zip,1.257,0.3717
+2026G,2026,Montrose,"West End Health Service District Directors (May, 2029)",special district,3,3,False,1083,1899,1518,1025,ok,summary.zip,1.402,0.5328
+2026G,2026,Morgan,Town of Wiggins Trustee,municipal council,3,3,False,690,1398,1224,641,ok,summary.zip,1.774,0.4087
+2026G,2026,Phillips,Town of Haxtun Board of Trustees,municipal council,2,2,False,442,756,659,427,ok,summary.zip,1.491,0.2545
+2026G,2026,Pitkin,Town of Snowmass Village Town Council,municipal council,2,5,True,1515,2571,2588,1148,ok,summary.zip,1.708,0.1459
+2026G,2026,Routt,Town of Hayden Councilmember,municipal council,3,6,True,845,1511,1896,563,ok,summary.zip,2.244,0.2521
+2026G,2026,Teller,Town of Green Mountain Falls Trustee,municipal council,3,2,False,13,23,14,13,ok,summary.zip,1.077,0.641
+2026G,2026,Weld,Town of Firestone Trustees,municipal council,5,8,True,8515,14388,23394,7061,ok,summary.zip,2.747,0.4505
+2026G,2026,Weld,Town of Gilcrest Board of Trustees,municipal council,6,8,True,323,699,1116,0,?,summary.zip,3.455,0.4241
+2026G,2026,Weld,Town of Hudson Councilmembers,municipal council,3,7,True,605,1254,1305,542,ok,summary.zip,2.157,0.281
+2026G,2026,Weld,Town of Keenesburg Board of Trustees,municipal council,3,5,True,732,1833,1365,656,ok,summary.zip,1.865,0.3784
+2026G,2026,Weld,Town of Kersey Trustee,municipal council,2,2,False,545,1034,601,518,ok,summary.zip,1.103,0.4486
+2026G,2026,Weld,Town of LaSalle Trustee,municipal council,3,6,True,874,1677,1792,0,?,summary.zip,2.05,0.3166
+2026G,2026,Weld,Town of Lochbuie Trustee,municipal council,5,6,True,2546,5534,6039,0,?,summary.zip,2.372,0.5256
+2026G,2026,Weld,Town of Mead Trustee,municipal council,4,8,True,3681,5467,10170,3411,ok,summary.zip,2.763,0.3093
+2026G,2026,Weld,Town of Pierce Trustee,municipal council,4,4,False,474,849,853,433,ok,summary.zip,1.8,0.5501
+2026P,2026,San_Miguel,Town of Telluride Town Council,municipal council,2,3,True,661,805,1116,0,?,summary.zip,1.688,0.1558
