@@ -238,10 +238,12 @@ of items not otherwise online are in [`docs/`](docs/).
 - **"Marsing, Prieto had more support than reports indicate"**, letter to the editor by Gaythia
   Weis, *Longmont Times-Call*, December 12, 2025: Longmont's at-large winners were chosen by about
   45% and 38% of voters, though reported as 29% and 25% of the votes.
+  [PDF of the text](docs/2025-12-12-times-call-letter-weis.pdf), as circulated by the author.
 
-**To do:** find online sources for the items listed here without one (the 2020 letter and the
-Times-Call letter) and for those linked only as copies in `docs/` (the March 2024 and December
-2021 *Voter* articles, in the League's newsletter archive, and the 2019 chart).
+**To do:** find online sources for the 2020 letter, which is listed without one, and for the
+items linked only as copies in `docs/`: the Times-Call letter (timescall.com, print or online),
+the March 2024 and December 2021 *Voter* articles (the League's newsletter archive), and the
+2019 chart.
 
 ## Data and tools
 
