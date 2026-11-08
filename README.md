@@ -3,7 +3,7 @@
 **Draft for discussion** by the Voting Methods Team of the League of Women Voters of Boulder County
 (LWVBC), November 8, 2026. This builds on the team's earlier work on election reporting, including
 the 2021 [Boulder Beat article](https://boulderbeat.news/2021/10/20/lwv-election-reporting/) and
-the "A Better Way to Report Election Results" articles. **The 2026 figures are unofficial**: counties are still counting, and
+the "A Better Way to Report Election Results" articles (see [Earlier work](#earlier-work-by-the-team)). **The 2026 figures are unofficial**: counties are still counting, and
 the last ballots include rare ballot styles held back so no update reveals one voter's choices,
 plus signature cures, late-arriving and provisional ballots.
 
@@ -191,6 +191,57 @@ To the Boulder County Clerk, and to Colorado counties generally:
 
 To the Secretary of State: make the ballot accounting identity a standard check on every county
 upload, and publish the per-contest summary report for every county in every election.
+
+## Earlier work by the team
+
+Published articles, letters and interviews on election results reporting, oldest first. Copies
+of items not otherwise online are in [`docs/`](docs/).
+
+- **2019 results chart** (prepared November 2020): City of Boulder Council 2019 (vote for 6) as
+  percent of votes and percent of ballots.
+  [PDF](docs/2019-boulder-city-council-percent-of-ballots-chart.pdf)
+- **Letter to Boulder County Clerk Molly Fitzpatrick**, December 11, 2020: asks that multi-winner
+  council results also be reported as each candidate's percent of ballots, illustrated with the
+  2019 chart.
+- **"Possible Changes to City Council Elections in Colorado: Lafayette and Boulder – A Different
+  Way to Report Election Results"**, Celeste Landry,
+  [LWVBC *Voter*, February 2021](https://lwvbc.clubexpress.com/content.aspx?page_id=5&club_id=629866&item_id=61316).
+- **"Guest opinion: A better way to report election results"**, Mark Parsons and Neal McBurnett,
+  [Boulder Beat, October 20, 2021](https://boulderbeat.news/2021/10/20/lwv-election-reporting/).
+- **"Another Look at Council Elections in Boulder County"**, Mark Parsons, LWVBC *Voter*,
+  December 2021: 2021 Boulder, Lafayette and Longmont council results as percent of ballots.
+  [PDF](docs/2021-12-voter-another-look-at-council-elections.pdf)
+- **"The Way Most Places Report Election Results Is Pretty Misleading"**, Mark Parsons and Neal
+  McBurnett interviewed by Alexis Kenyon,
+  [KGNU Morning Magazine, December 10, 2021](https://kgnu.org/the-way-most-places-report-election-results-is-pretty-misleading/).
+- **"A Better Way to Report Election Contest Results: Part 1 – Boulder County's Multi-Winner
+  Contests"**, Celeste Landry, Mark Parsons and Neal McBurnett,
+  [LWVBC *Voter*, December 2023](https://lwvbc.org/content.aspx?page_id=5&club_id=629866&item_id=95672&).
+- **"November 2023 Local Elections Through the Lens of Voting Methods"**, Voting Methods Team,
+  [LWVBC *Voter*, December 2023](https://lwvbc.clubexpress.com/content.aspx?page_id=5&club_id=629866&item_id=95671).
+- **"Boulder is not as politically polarized as you might think, election data show"**, Boulder
+  Reporting Lab, December 18, 2023, drawing in part on background on undervotes, overvotes and
+  ranked-choice results from Neal McBurnett:
+  [boulderreportinglab.org](https://boulderreportinglab.org/2023/12/18/boulder-is-not-as-politically-polarized-as-you-might-think-election-data-show/).
+- **"Boulder can do better election reporting in mayoral contest"**, guest opinion, LWVBC
+  (Celeste Landry and team), on reporting Boulder's first ranked-choice mayoral results,
+  [Daily Camera, January 11, 2024](https://www.dailycamera.com/2024/01/11/guest-opinion-celeste-landry-boulder-can-do-better-election-reporting-in-mayoral-contest/)
+  ([LWVBC copy](https://lwvbc.org/content.aspx?page_id=86&club_id=629866&item_id=47145)).
+- **"A Better Way to Report Election Results: Part 2 – Single-Winner Contests and Election
+  Integrity"**, Neal McBurnett and Celeste Landry, LWVBC *Voter*, March 2024: undervotes,
+  overvotes, ballot design and ranked-choice exhausted ballots.
+  [PDF](docs/2024-03-voter-better-way-part-2-single-winner-and-integrity.pdf)
+- **"A Better Way to Report Multi-Winner Plurality Contest Results – 2025 Boulder County"**,
+  Celeste Landry with graphs by Mark Parsons, LWVBC *Voter*, December 2025.
+  [PDF](https://mcusercontent.com/60e8006477ddf87fb95c6293d/files/165af69d-9a0b-c7b7-d380-3414b8355a41/Final_2025_12_Voter_Better_MW_Plurality_Election_Reporting.docx.pdf)
+  ([copy](docs/2025-12-voter-better-way-multi-winner-plurality-2025.pdf))
+- **"Marsing, Prieto had more support than reports indicate"**, letter to the editor by Gaythia
+  Weis, *Longmont Times-Call*, December 12, 2025: Longmont's at-large winners were chosen by about
+  45% and 38% of voters, though reported as 29% and 25% of the votes.
+
+**To do:** find online sources for the items listed here without one (the 2020 letter and the
+Times-Call letter) and for those linked only as copies in `docs/` (the March 2024 and December
+2021 *Voter* articles, in the League's newsletter archive, and the 2019 chart).
 
 ## Data and tools
 
