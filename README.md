@@ -190,9 +190,11 @@ Two figures summarize each multi-winner contest:
 
 - **City of Boulder:** the three leaders were each chosen by 44–47% of voters but appear as
   12–13% of the votes on the county's results page.
-- **Superior:** all five candidates win seats, but only the top three get 4-year terms. Voters
-  used fewer than half their possible votes, and each candidate was chosen by 44–53% of voters
-  while showing as 18–22% of the votes.
+- **Superior:** all five candidates win seats, but only the top three get 4-year terms: so far
+  Stephanie Miller (52.8% of voters), John Heckman (50.2%) and Kelly Watt (46.8%), with Watt 89
+  votes ahead of Adam Vonnahme (45.6%) for the third 4-year term. Voters used fewer than half
+  their possible votes (choosing fewer candidates is the only way to influence who gets the long
+  terms), and each candidate was chosen by 44–53% of voters while showing as 18–22% of the votes.
 - **Niwot:** the ninth and tenth places, 35.4% and 34.0% of voters, are 38 votes apart.
 
 ![City of Boulder Council, 2026](figures/city-of-boulder-council-candidates.png)
