@@ -264,8 +264,14 @@ The team has asked for percent-of-ballots reporting since 2020, and for undervot
 reporting since at least 2023. Looking back through our meeting minutes and correspondence, the
 data we wanted was available earlier than we thought, and we lost track of that more than once.
 
-- **2016.** Neal McBurnett noted that Colorado's Clarity downloads gave total ballots per county
-  but no undervote or overvote figures, so residual votes had to be estimated.
+- **November 2016.** Neal McBurnett posted to the Election Verification Network list a statewide
+  analysis of "residual votes" (undervotes, overvotes and other invalid votes) computed from
+  Colorado's Clarity election-night downloads. Clarity then gave ballot counts only per county,
+  not per contest, and no undervote or overvote figures, so residuals could be computed only by
+  subtracting each contest's votes from the county's ballots. Residuals ran from 2.4% for
+  President to 9–12% for some ballot measures and the at-large CU Regent, and about 25% for
+  judicial retention questions. The post also noted that each update replaced the downloadable
+  reports, so earlier results were hard to retrieve.
 - **December 2020.** The team asked the Boulder County Clerk to report multi-winner council
   results as a percent of ballots. The Secretary of State's office had told the team that no
   statute requires any particular percentage.
